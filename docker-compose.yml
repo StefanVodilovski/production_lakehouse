@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: transactional_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: transactional_db
+    ports:
+      - "5432:5432"
+    command:
+      - "postgres"
+      - "-c"
+      - "wal_level=logical"
+      - "-c"
+      - "max_replication_slots=10"
+    volumes:
+      - transactional_db:/var/lib/postgresql/data
+volumes:
+  transactional_db:
