@@ -1,8 +1,6 @@
-from sqlalchemy.dialects.postgresql import insert
 from config import config, logger
 from repostitory.category import insert_categories_batch
 from db.engine import get_db_session
-
 
 
 async def __extract_category_data(category: dict) -> dict | None:
@@ -17,7 +15,8 @@ async def __extract_category_data(category: dict) -> dict | None:
         "label": label,
     }
 
-async def process_categories(categories: dict) -> list[str]: 
+
+async def process_categories(categories: dict) -> list[str]:
     logger.info("Processing and storing categories...")
     async with get_db_session() as db:
         results = categories.get("results")

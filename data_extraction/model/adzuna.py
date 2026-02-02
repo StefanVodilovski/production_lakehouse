@@ -8,7 +8,7 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
     JSON,
-    func
+    func,
 )
 from sqlalchemy.orm import declarative_base, relationship
 
@@ -42,6 +42,7 @@ class JobCategory(Base):
             name="uq_job_category_source_source_category_id",
         ),
     )
+
 
 class JobListing(Base):
     __tablename__ = "job_listing"

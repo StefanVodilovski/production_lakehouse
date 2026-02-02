@@ -6,6 +6,7 @@ def mock_categories_response() -> dict:
     logger.info("Returning mock categories response for testing...")
     return read_mock_data("categories.json")
 
+
 async def fetch_categories() -> dict:
     logger.info("Fetching categories from Adzuna API...")
     params = {
@@ -21,13 +22,14 @@ async def fetch_categories() -> dict:
             params=params,
             headers={"accept": "application/json"},
         )
-        if response.status_code ==429:
-            raise Exception(f"Rate limit exceeded when fetching categories from Adzuna API. message: {response.text}")
+        if response.status_code == 429:
+            raise Exception(
+                f"Rate limit exceeded when fetching categories from Adzuna API. message: {response.text}"
+            )
         if response.status_code != 200:
-            raise Exception(f"Failed to fetch categories from Adzuna API. Status code: {response.status_code}, message: {response.text}")
+            raise Exception(
+                f"Failed to fetch categories from Adzuna API. Status code: {response.status_code}, message: {response.text}"
+            )
     data = response.json()
     logger.info("Categories fetched successfully.")
     return data
-
-
-

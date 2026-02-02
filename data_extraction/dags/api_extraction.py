@@ -16,7 +16,6 @@ from api.adzuna.process_categories import process_categories
     tags=["adzuna", "jobs"],
 )
 def adzuna_dag():
-
     @task
     def fetch_categories_task():
         return asyncio.run(fetch_categories())
@@ -33,4 +32,6 @@ def adzuna_dag():
     category_tags = process_categories_task(categories)
 
     fetch_jobs_task.expand(category=category_tags)
+
+
 adzuna_dag()
