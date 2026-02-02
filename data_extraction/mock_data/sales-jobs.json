@@ -1,0 +1,1653 @@
+{
+  "count": 10172,
+  "mean": 42677.4,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5592780502?utm_medium=api&utm_source=08e8c3e5",
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 26918.68,
+      "id": "5592780502",
+      "created": "2026-01-20T19:17:37Z",
+      "title": "New Homes Sales Advisor",
+      "description": "Job Description We’re looking for a highly motivated New Homes Sales Advisor to complement our team onsite in Roath . The main purpose of this role is sales generation and to act as the primary point of contact for perspective house buyers, guiding them through the process from initial meeting to handover of their new home.OTE- £30K-£35K - Uncapped Commission - Career Progression What’s in it for you as our New Homes Sales Advisor? Industry leading training and development Demonstrable career l…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkyNzgwNTAyIn0.WUBxD0m9CJWzE9Sy9IO7ThW7QLYYN9k1txsgW_b0y8Q",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK",
+          "Wales",
+          "Cardiff County"
+        ],
+        "display_name": "Cardiff County, Wales",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Allen and Harris",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "salary_max": 26918.68
+    },
+    {
+      "location": {
+        "display_name": "Lutterworth, Leicestershire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Leicestershire",
+          "Lutterworth"
+        ]
+      },
+      "longitude": -1.21081,
+      "contract_type": "permanent",
+      "title": "Customer Delivery Driver (Birmingham)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkxMTA0MjMxIn0.pO47O508a0ayYjdu4aRqsr-vxlproNydv5xdISV2RcY",
+      "salary_is_predicted": "0",
+      "created": "2026-01-19T06:42:42Z",
+      "id": "5591104231",
+      "latitude": 52.458599,
+      "contract_time": "full_time",
+      "salary_max": 30000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Elis UK Limited"
+      },
+      "description": "About a career with Elis Join Elis as a Customer Delivery Driver, where each delivery contributes to customer satisfaction and professional achievement. This role encompasses more than just driving; it involves delivering exceptional service, fostering positive relationships, and maintaining a high standard of professionalism across the UK. ?? At Elis, we’re leaders in laundry and hygiene services, powered by innovation and excellence. We create an environment where YOU can thrive, grow, and bu…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5591104231?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 28571
+    },
+    {
+      "latitude": 52.1281,
+      "created": "2026-01-23T16:15:20Z",
+      "id": "5597264647",
+      "title": "New Homes Sales Advisor",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk3MjY0NjQ3In0.DZbczG9DsWuwOtKoOmrNEdEhwccAAgxLo0YzzIL2SH0",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "UK",
+          "Eastern England",
+          "Suffolk",
+          "Ipswich",
+          "Brettenham"
+        ],
+        "display_name": "Brettenham, Ipswich",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 0.856304,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597264647?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=EB9A03EBD031761D26322EA6D3D1DEB6CB22450E",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 29000,
+      "description": "We have an exciting opportunity for an experienced (1 year) New Homes Sales Adviser to join one of the UK's largest and most successful house-builders, help sell a scheme of 110 x 3 & 4 bedroom family homes between Bury St Edmonds and Haverhill (IP29). The site is open 7 days a week and the successful applicant will be working double-manned, based from the sales suite, on a 10am to 5pm, five days a week, including weekends (with two days off in the week). Duties will include: * Meeting, greetin…",
+      "contract_time": "full_time",
+      "salary_max": 32000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PW Construction Recruitment"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTU1MDc4NSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.F1fAT7ZgEQAUo6KjNdiDisv_TXTQTgC7hlW_wqu0Cjc",
+      "title": "Account Manager",
+      "contract_type": "permanent",
+      "longitude": -0.55908,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Woking, Surrey",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Woking"
+        ]
+      },
+      "latitude": 51.316799,
+      "id": "5591550785",
+      "created": "2026-01-19T19:29:41Z",
+      "description": "An opportunity has arisen for an Account Manager to join an established professional services business based in the local area. This role is suited to an experienced account management professional, though applications are also welcomed from individuals with strong potential who are keen to progress into a more advisory, client-facing role with training and support. You will be responsible for managing a portfolio of client accounts, ensuring a high standard of service delivery, effective commu…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amber Employment Services"
+      },
+      "salary_max": 31000,
+      "contract_time": "full_time",
+      "salary_min": 29000,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591550785?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=EDE6E44939ADDFC3CCDFE69E7F8C70B04239B963"
+    },
+    {
+      "contract_type": "contract",
+      "longitude": -2.165374,
+      "location": {
+        "display_name": "New Moston, Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "New Moston"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTM4NDk5OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.uynoESVOredIFU0JTx5_fsslQLtaQjtg-EKhpNwJvDk",
+      "title": "Accompanied Viewing Representative (Casual)",
+      "id": "5591384998",
+      "created": "2026-01-19T18:49:50Z",
+      "latitude": 53.521524,
+      "company": {
+        "display_name": "Northern Estate Agencies Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 7,
+      "description": "A client facing role accompanying prospective tenants on house property viewings, you will be responsible for promoting Ryder &amp; Dutton. We are looking for someone who can work occasional weekdays and weekends to conduct viewings in Chadderton and the surrounding areas. You will need: &middot; A mature and outgoing personality &middot; Good local knowledge &middot; Good time management &middot; Access to own vehicle, insured for business use What&rsquo;s in it for you: Be part of an award wi…",
+      "salary_min": 7,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5591384998?utm_medium=api&utm_source=08e8c3e5"
+    },
+    {
+      "description": "A renowned, established name in the industry, our client are a large Financial organisation - one with proven, established pedigree. Empowering finance professionals and redefining financial performance, our client's influential enterprise benefits small and large businesses with the range of award-winning services they offer. They're now looking to bring on board Junior Account Managers. Your primary function will be handling existing accounts and cross selling, with some new business developm…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pareto"
+      },
+      "salary_max": 35000,
+      "contract_time": "full_time",
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 28000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594787913?utm_medium=api&utm_source=08e8c3e5",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk0Nzg3OTEzIn0.4U6BiezMRJh1iCDBafUyT07Rv8ek2xR3856P9RAHfwA",
+      "title": "Junior Account Manager",
+      "contract_type": "permanent",
+      "longitude": -0.976354,
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Oxfordshire",
+          "Thame"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Thame, Oxfordshire"
+      },
+      "latitude": 51.7481,
+      "id": "5594787913",
+      "created": "2026-01-21T22:54:17Z"
+    },
+    {
+      "salary_max": 25936,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "McCormick UK Limited"
+      },
+      "contract_time": "full_time",
+      "description": "Field Support Merchandiser - West Midlands Salary: £25,936.20  Company Van vehicle which is available for personal use, fuel card provided with claimable rate in line with pump costs  up to £800 per annum potential execution bonus paid quarterly. Tax-free expense allowance: £520pa in addition to salary Type of contract: Permanent Schwartz is currently looking for a full-time Field Support Merchandiser to cover West Midlands and South Wales with the possible requirement to travel more widely and…",
+      "salary_min": 520,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595650198?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=C94472BAF777C5CDC6A12E9F5584B08D64EB5399",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "UK",
+          "West Midlands"
+        ],
+        "display_name": "West Midlands, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -2.355658,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTY1MDE5OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.sDlU6Kcspw4pqhmEgq2gDo5HwaPPCgMPWLJKzS0TN7k",
+      "salary_is_predicted": "0",
+      "title": "Field Support Merchandiser - West Midlands",
+      "created": "2026-01-22T18:22:46Z",
+      "id": "5595650198",
+      "latitude": 52.509745
+    },
+    {
+      "title": "Kitchen Designer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MjI0OTkyNSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.4ikkjeSa1_uf2QCVujV2NkhDYKqmfEHjKQgF-kTqmTI",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nottingham, Nottinghamshire"
+      },
+      "longitude": -1.14917,
+      "contract_type": "permanent",
+      "latitude": 52.955101,
+      "created": "2026-01-20T10:44:09Z",
+      "id": "5592249925",
+      "description": "Designer Recruitment are seeking a Kitchen Sales Designer for a well-known kitchen retailer and manufacturer in Nottigham. This is a permanent role offering up to £33,000 per annum  Commission for the right kitchen designer. Kitchen Designer responsibilities Deliver on kitchen sales targets and enhance opportunities for further income growth Lead taking, booking design appointments and presenting designs to clients/customers, converting into sales Support with showroom marketing activities Enga…",
+      "salary_max": 30000,
+      "company": {
+        "display_name": "DESIGNER RECRUITMENT LTD",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5592249925?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 30000,
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_max": 30000,
+      "company": {
+        "display_name": "JLA Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sowerby, Sowerby Bridge",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Sowerby Bridge",
+          "Sowerby"
+        ]
+      },
+      "longitude": -1.93651,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkyNTIwMDAwIn0.Uz2WPzui8xh0oMwtZT6NKjK1rVpjlnzGYQpnoLP7Jbc",
+      "salary_is_predicted": "0",
+      "description": "JLA is a mission critical infrastructure solutions business offering services Laundry, Catering, Heating, Fire Safety, Infection Control and Air Conditioning. The company offers an end-to-end, on premise, machine supply and breakdown service proposition under the name Total Care, and additional products and services. JLA is driven by a world class Sales & Marketing engine, owns and maintains all assets, and has an efficient on-site operations team working with daily with customers. When you joi…",
+      "title": "Business Development Executive",
+      "created": "2026-01-20T18:57:20Z",
+      "id": "5592520000",
+      "salary_min": 30000,
+      "latitude": 53.7057,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5592520000?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "id": "5593691813",
+      "created": "2026-01-21T06:41:44Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593691813?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=0D92A7B7E468D4441D836D2281903DF53EF8BEC2",
+      "salary_min": 77046.53,
+      "latitude": 51.503378,
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -0.139134,
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Broadgate"
+      },
+      "salary_max": 77046.53,
+      "title": "Director - Funds Organic Growth",
+      "description": "We are partnered with a global leader fund administration company looking for a Director – New Business. Responsibilities include: Develop and execute strategic initiatives to secure new mandates and expand the client base. Identify and deliver cross-selling opportunities across existing clients to strengthen relationships and maximise revenue. Build and maintain strong relationships with intermediaries, actively participating in industry events, networks, and conferences. Maintain a detailed u…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MzY5MTgxMyIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.371UyUonzOH0oevtZu3T9zCxJiZTqJn8QbEb0K5NQPc"
+    },
+    {
+      "company": {
+        "display_name": "C TWO",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 50760.76,
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The City, Central London",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "The City"
+        ]
+      },
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk0MDYyMjcyIn0.6HTqj_c9nIaG4nNTnzR9JyOr8NG5vxkvi1MU9r_4klU",
+      "title": "Account Executive",
+      "description": "Account Executive Remote – Europe based ( with full R ight to Work eligibility within your location ) Are you a driven sales professional ready for that next opportunity in the B2B tech space ? We’re seeking a true hunter who’s ambitious for autonomy and eager to help build something from the ground up. As a Account Executive, you are an enterprise sales professional experienced in selling to and opening new logo Enterprise accounts. Y ou’ll have the freedom to take charge of your own success, …",
+      "id": "5594062272",
+      "created": "2026-01-21T16:33:28Z",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 50760.76,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594062272?utm_medium=api&utm_source=08e8c3e5"
+    },
+    {
+      "salary_min": 30000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5595442597?utm_medium=api&utm_source=08e8c3e5",
+      "description": "Please note that if you do not have the relevant experience required for the role, your application will not be considered. We are currently recruiting for a Lettings Manager for our Estate Agency client based in Ascot. The successful candidate must have Lettings Manager experience along with local knowledge . Candidates must be a UK Resident and ideally live within a 30-minute commute of the area. You will need to hold a full UK driving licence and have the use of your own car. Benefits: Basic…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tate and Harriss"
+      },
+      "salary_max": 50000,
+      "contract_time": "full_time",
+      "latitude": 51.41058,
+      "id": "5595442597",
+      "created": "2026-01-22T14:19:01Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTQ0MjU5NyIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.gznpA3BTbIagXk-YuVVoADQS2q3N4Jkteb3imtr_HjI",
+      "title": "Estate Agent - Lettings Manager",
+      "contract_type": "permanent",
+      "longitude": -0.674333,
+      "location": {
+        "display_name": "Ascot, Windsor & Maidenhead",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Windsor & Maidenhead",
+          "Ascot"
+        ]
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5597284644?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 33167.37,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "id": "5597284644",
+      "created": "2026-01-23T16:38:26Z",
+      "description": "Description Job Role: Sales Development Representative Location: London - Hybrid (4 days a week in office) Who We Are: We believe everyone can be better with a coach and we won’t stop until we get there. Coaching changes people’s lives. It helps them be happier and more productive in their work. It turns entire companies into more inclusive, more productive places to be. That’s why we’ve made it easy for more people – not just those at the top – to benefit from the world’s best coaches. This is…",
+      "title": "Sales Development Representative - EZRA",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NzI4NDY0NCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.ne3YMadbyEsOiNOclxSoWJLwvLV-_Ut9bQjQzz9t0po",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK"
+      },
+      "salary_max": 33167.37,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ezra"
+      }
+    },
+    {
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTE3NzI3OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.f9uSeDfN591cO3GFmhhgQjBXdsIMMxt4zQG-ooHDKW8",
+      "title": "Store Manager - Doncaster",
+      "longitude": -1.13376,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Doncaster, South Yorkshire",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "South Yorkshire",
+          "Doncaster"
+        ]
+      },
+      "latitude": 53.522999,
+      "created": "2026-01-19T09:37:38Z",
+      "id": "5591177278",
+      "description": "Role Overview Our Store Manager is the primary leader responsible for driving sales and providing exceptional customer experiences within the showroom. They lead by example, motivating and developing their team to achieve clearly defined targets on furniture sales and essential attachments. They understand that the customer is at the heart of everything we do and have the natural ability to continually grow their team’s capability to enable them to meet our customers' high expectations. They de…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Oak Furnitureland"
+      },
+      "salary_max": 51358.13,
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 51358.13,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5591177278?utm_medium=api&utm_source=08e8c3e5"
+    },
+    {
+      "description": "Are you passionate about sales but feel undervalued despite your dedication? Do you desire the stability of a large company, while craving the vibrant atmosphere of a boutique environment? Are you eager for transparent and achievable career advancement? Client Details Join Michael Page: Unleash Your Potential in Recruitment! Looking for the next step in your career? Michael Page in Birmingham is actively seeking experienced Recruitment Consultants and Sales professionals to join us. This is you…",
+      "contract_time": "full_time",
+      "salary_max": 28953.47,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Page Group"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5595459923?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 28953.47,
+      "title": "Recruitment Consultant",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTQ1OTkyMyIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.HemBwVm4cY6N-St7Tpj60LycztRm156vusH94oKuVxU",
+      "salary_is_predicted": "1",
+      "location": {
+        "display_name": "Birmingham, West Midlands",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "longitude": -1.89359,
+      "contract_type": "permanent",
+      "latitude": 52.483002,
+      "created": "2026-01-22T14:59:11Z",
+      "id": "5595459923"
+    },
+    {
+      "latitude": 51.628799,
+      "salary_min": 30873.87,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594160347?utm_medium=api&utm_source=08e8c3e5",
+      "created": "2026-01-21T18:51:39Z",
+      "id": "5594160347",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk0MTYwMzQ3In0.97NEa3nI_rC3S0ZEbHxKRjuKa6HrZgJH4NF6Y7b3VtQ",
+      "title": "Junior Buyer",
+      "description": "The Role We`re looking for a new Junior Buyer to join our buying team based in Loudwater, Buckinghamshire. In this role, you will be accountable for day to day Buying support required to deliver the sourcing strategy for our product groups, to deliver against the commercial initiatives. You will also work cross functionally to support delivery of high quality ethically sourced products. This role is also accountable for selecting, purchasing and developing new products for all channels on one o…",
+      "company": {
+        "display_name": "Dreams Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 30873.87,
+      "longitude": -0.749466,
+      "location": {
+        "display_name": "High Wycombe, Buckinghamshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Buckinghamshire",
+          "High Wycombe"
+        ]
+      }
+    },
+    {
+      "description": "My client has a fantastic reputation within a multitude of industries that they provide solutions within. They are a multi billion turnover business, and are going through a continued period of growth within the UK & Europe. They are currently developing their sales function within their Scottish division. There is the opportunity for an experienced Sales Executive to join the team on the outskirts of Glasgow. Key Responsibilities: Identify, engage, and qualify prospects through cold calling an…",
+      "company": {
+        "display_name": "Zachary Daniels Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 28000,
+      "contract_time": "full_time",
+      "salary_min": 25000,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5590956353?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=51CB8B77462426A5A0C550B0BD3812F398E3678F",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MDk1NjM1MyIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.wnlHnnIC0W0b1k1md0YtxWQ64FtBcGRNtBSbMCd6iS8",
+      "title": "Sales Executive",
+      "longitude": -4.25596,
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Glasgow, Scotland"
+      },
+      "latitude": 55.86026,
+      "id": "5590956353",
+      "created": "2026-01-19T01:41:03Z"
+    },
+    {
+      "latitude": 51.451818,
+      "id": "5592969329",
+      "created": "2026-01-20T20:11:19Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5Mjk2OTMyOSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.mIm-6QqzTgCAyEJDE6VzlsbKUEO9zarzIWWTyLdMp-E",
+      "salary_is_predicted": "1",
+      "title": "Contract Hire BDM",
+      "contract_type": "contract",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "South East London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South East London, London"
+      },
+      "longitude": -0.02806,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 45886.52,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5592969329?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "An exciting new role under Vertellus by RTC has been created and we are seeking a dynamic Commercial Vehicle Industry Contract Hire and Rental Sales Professional. This hybrid role will be based from either one of the these sites: Dunstable, Reading, West Thurrock where you will reside within a reasonable commute of them. Being part of the Vertellus brand, we offer a unique manufacturer backed proposition giving customers the foundations of security and trust. We offer flexible solutions to tran…",
+      "salary_max": 45886.52,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Renault Truck Commercials Ltd"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "title": "Business Development Executive",
+      "description": "Be part of something big We are Pernod Ricard, a leading company in the global spirits industry with over 19,000 employees globally. We own 16 of the world’s top 100 Spirits Brands and hold one of the most prestigious and comprehensive brand portfolios in the industry with 240 premium brands available in over 160 countries, including: Absolut vodka, Ballantine’s, Chivas Regal, Royal Salute, and The Glenlivet Scotch whiskies, Jameson Irish whiskey, Martell cognac, Havana Club rum, Beefeater, Mal…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk1MDI5NDg0In0.y6lUIs-gAjgFV9QjQButRL3-xc7AGf7tmXt-x4M9sY4",
+      "longitude": -2.23438,
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pernod Ricard"
+      },
+      "salary_max": 42135.76,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5595029484?utm_medium=api&utm_source=08e8c3e5",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 53.480701,
+      "salary_min": 42135.76,
+      "id": "5595029484",
+      "created": "2026-01-22T02:41:50Z"
+    },
+    {
+      "latitude": 51.1133,
+      "created": "2026-01-22T07:17:39Z",
+      "id": "5595254103",
+      "title": "Recruitment Consultant",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk1MjU0MTAzIn0.m-5ybnnlq15uRvysGIlvasFox1iphqMdFl7T4SybKx8",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Crawley"
+        ],
+        "display_name": "Crawley, West Sussex",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -0.182914,
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595254103?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=7432938582E04A2156D3CA9B67F7B9FD003C143A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 26000,
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Step into a high-performing team where you'll inherit warm public sector relationships, receive industry-leading training, and progress quickly with a transparent career framework. This role focuses on temporary recruitment for public sector clients , with the opportunity to support office support and commercial roles across the local area . What You'll Be Doing - Full 360 Recruitment You'll run your own desk, owning client relationships and delivering quick, quality temporary placements. Your …",
+      "contract_time": "full_time",
+      "salary_max": 35000,
+      "company": {
+        "display_name": "Reed",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "description": "Recruitment Consultant, London, Competitive Salary  Uncapped Commission CORE is growing and we are looking to speak with amazing recruiters looking to take the next step in their career. If you've got the experience and love connecting people with great opportunities, we'd love to hear from you. Join the team and be a part of something brilliant! What's in it for you: Uncapped individual commissio",
+      "title": "Recruitment Consultant",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk1NTk0MzQ4In0.Q1VRFy_bbs-CMfXpJ4zpbgPUECLC_f6EC2GJZmHYWR0",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "St Lukes"
+        ],
+        "display_name": "St Lukes, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -0.091444,
+      "salary_max": 33811.21,
+      "company": {
+        "display_name": "COREcruitment International",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595594348?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=FE01B329FFA6017B5B1B81F9622816A017C7538E",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.529007,
+      "salary_min": 33811.21,
+      "created": "2026-01-22T17:35:46Z",
+      "id": "5595594348"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5598911641?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=6D82FF6F4624384E4CCE893AF2A9F0BF4330C8DC",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 64408.68,
+      "description": "About Safecall Safecall is a whistleblowing service provider, helping organisations establish an independent, safe and confidential reporting system since 1999. Our whistleblowing hotline and online reporting allows employees to Speak Up and report their concerns to the highest levels of management. We recognise the value of an effective whistleblowing programme in supporting both employers and employees to address wrongdoing in the workplace. We support over 1,000 customers in 100 countries gl…",
+      "contract_time": "full_time",
+      "salary_max": 64408.68,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Law Debenture"
+      },
+      "latitude": 51.515694,
+      "id": "5598911641",
+      "created": "2026-01-24T16:35:13Z",
+      "title": "Strategic Relationship Director",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5ODkxMTY0MSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.XAvF_ofbVMMAA7J1TTG1RnBop0GIq6Eqqg9G0flSLmQ",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Liverpool Street"
+        ],
+        "display_name": "Liverpool Street, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -0.08184
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk0MDY0Mzc2In0.7oZ7rucKXh2qUQeD_Zi6YY8Lv8icmyCcK3zp0uMucq0",
+      "salary_is_predicted": "1",
+      "description": "About the team Stripe is investing in building out its Global Product Sales team to actively engage and drive prospects and customers to adopt Stripe Managed Payments. Managed Payments helps businesses to sell their digital products globally, and let Stripe manage global tax, fraud prevention, dispute management, and customer support for transactions. Stripe's Global Product Sales team is at the forefront of driving revenue and growth. As trusted business partners and strategic salespeople, our…",
+      "title": "Account Executive, Product Sales - Managed Payments",
+      "salary_max": 39522.04,
+      "company": {
+        "display_name": "Stripe",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "longitude": -0.139134,
+      "salary_min": 39522.04,
+      "latitude": 51.503378,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594064376?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5594064376",
+      "created": "2026-01-21T16:36:55Z"
+    },
+    {
+      "created": "2026-01-21T12:17:51Z",
+      "id": "5593894923",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593894923?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=7EA23EA78F0D25683A4282D7F647698B483C71E4",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 25000,
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "The City, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "The City"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Search"
+      },
+      "salary_max": 32000,
+      "title": "Recruitment Consultant - Tech",
+      "description": "Recruitment Consultant - Tech Tech Commercial Practice | London (Hybrid) £25,000-£32,000 Basic Salary  Uncapped Commission (receive up to 40% of billings, year 1 OTE £60,000)  Excellent Benefits Why join Henderson Scott? At Henderson Scott, we're passionate about empowering our people to succeed. Whether through personalised development plans, performance-driven incentives, or initiatives that support balance and well-being, we create an environment where you can thrive and build a long-term ca…",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkzODk0OTIzIn0.0UiKlcjEaJ84xMhxjp00SeB7VshMHf-RioWVnPb95J4"
+    },
+    {
+      "title": "Sales Executive",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk3MzI5MTkzIn0.LVs1I0jHDRsMmJC3_OhcWvaY5MeX19i6RoD4FbH0NAE",
+      "longitude": 0.1422,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Dagenham, Essex",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Essex",
+          "Dagenham"
+        ]
+      },
+      "contract_type": "contract",
+      "latitude": 51.5397,
+      "created": "2026-01-23T18:32:01Z",
+      "id": "5597329193",
+      "description": "This is you: a self-starter, with great communication & sales skills, a persuasive ‘people-person’ who enjoys dealing with all sorts of customers, looking to stretch your business development potential to the next level. You’re excited by the uncapped earning potential for self-employment where you get all your appointments and pre-qualified leads supplied by head office, and all the training you need to make your business a success straight out of the blocks. And this is us! Anglian Home Impro…",
+      "company": {
+        "display_name": "Anglian Home Improvements",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 100000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597329193?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=74F6B16021F0D22BAE0258EC47604041F7E8ED25",
+      "salary_min": 75000,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "id": "5590118102",
+      "created": "2026-01-18T03:45:48Z",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.503378,
+      "salary_min": 47283.69,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5590118102?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=3F3E8AE189F03B3554B52F810E0F64C3596CD872",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 47283.69,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Decospan"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "longitude": -0.139134,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkwMTE4MTAyIn0.KqhVTp6vue3O3wGrUHQm9c6JfhrDhH7J3WNnko_SYgg",
+      "salary_is_predicted": "1",
+      "description": "Help create a world full of favourite places. At Decospan, we believe wood veneer has the power to shape atmospheres, elevate homes and spark imagination. As our Specification Manager in the UK , you’ll bring that world to life. You will become the face of our veneer brands, inspiring architects, interior designers and deciding stakeholders to specify our added value products and get them ordered. With a warm, consultative approach, you build long-term relationships that turn curiosity into pre…",
+      "title": "Specification Manager"
+    },
+    {
+      "contract_type": "permanent",
+      "longitude": -2.612653,
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Cheshire"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Cheshire, North West England"
+      },
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDQ5ODQ3MSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.vPWyPyriCPUpJKFdXWLL9icLyxI5KfkvKDXm25cQAf8",
+      "title": "Business Development Manager",
+      "id": "5594498471",
+      "created": "2026-01-21T19:31:23Z",
+      "latitude": 53.206334,
+      "company": {
+        "display_name": "Clover Talent Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 50000,
+      "contract_time": "full_time",
+      "description": "Clover Talent is supporting a leading provider of umbrella payroll, CIS and limited company accountancy services, focused on contractors and recruitment agencies across the UK. They have built strong relationships with recruiters and contractors by delivering compliant, transparent payroll solutions alongside exceptional service levels. Role Overview As part of the sales team, you will drive new business growth by building and nurturing strong relationships with recruitment agencies and contrac…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 35000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594498471?utm_medium=api&utm_source=08e8c3e5"
+    },
+    {
+      "contract_time": "full_time",
+      "salary_max": 30000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Interaction - Leicester"
+      },
+      "description": "Electrical Sales Coordinator Full-Time - Permanent Monday to Friday Office Hours Basic Salary: £28,000.00 to £32,000.00 Per Annum Location: Leicester Benefits: Great team culture with a fun office-based environment, FREE PARKING, fantastic career prospects and further growth. Due to further expansion plans, our market leading client is seeking an enthusiastic & dynamic Electrical Sales Coordinatoron a Full Time Permanent basis . There is fantastic opportunity for growth and progression as an El…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592184001?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=2FE5A403440B0BEA9DBADE441C6E89291DB3DF0A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "salary_min": 30000,
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands",
+          "Leicestershire",
+          "Leicester"
+        ],
+        "display_name": "Leicester, Leicestershire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -1.12952,
+      "contract_type": "permanent",
+      "title": "Electrical Sales Coordinator",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MjE4NDAwMSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.djBPSgRQD4mxKgv9yhDvNJOrNBDeDKC-0Rbp1LBdPSY",
+      "salary_is_predicted": "0",
+      "id": "5592184001",
+      "created": "2026-01-20T07:23:07Z",
+      "latitude": 52.6348
+    },
+    {
+      "id": "5598719425",
+      "created": "2026-01-24T12:32:39Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5598719425?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=215D693A99492AEE26A020AB6BD2E7E6E2EB3D46",
+      "salary_min": 80000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "ASKE Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 85000,
+      "title": "Head of New Business - Automotive Fleet",
+      "description": "HEAD OF NEW BUSINESS - AUTOMOTIVE FLEET £80-85k Salary, Bonuses of £30-50k at OTE and overperformance thresholds Remote / field based - flexible on home location * Provision of mobility services to companies with medium, large and enterprise sized workforces * Flexible home location - this is a field based role but ideally within the geographic block enclosed by the M6, M40, M1 and M62 YOUR BACKGROUND Please note that career experience in the following sectors are highly relevant to this role: …",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk4NzE5NDI1In0.VEeEU47x1_dek-GsydYdj4s_3QLHkT2Ri14grjSecgk"
+    },
+    {
+      "salary_min": 34509.3,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5593698960?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 34509.3,
+      "company": {
+        "display_name": "Enterprise Mobility",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Overview We’re Enterprise Mobility. A family-owned, global mobility leader with a $39 billion turnover, nearly 90,000 team members, and operations in 95 countries. Led by CEO Chrissy Taylor, the third generation of the Taylor family, we’re built on a legacy that gives us the stability to focus on the long-term success of our people, our customers and our business. Join us, and as this year’s Higherin Best Student Employer and a Times Top 100 Graduate Employer, we’ll offer you the freedom to exp…",
+      "id": "5593698960",
+      "created": "2026-01-21T06:57:16Z",
+      "latitude": 50.836601,
+      "contract_type": "contract",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Chichester"
+        ],
+        "display_name": "Chichester, West Sussex",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -0.780178,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkzNjk4OTYwIn0.kWMAsTmIuNGdb8JUN3knBTunGc7xT0c5LRqXYnTMYiM",
+      "salary_is_predicted": "1",
+      "title": "One Year Management Placement / Internship - Chichester / Bognor Regis"
+    },
+    {
+      "longitude": -0.139134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "company": {
+        "display_name": "SS&C Intralinks",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 37196.91,
+      "title": "Account Executive - IBD",
+      "description": "About SS&C Technologies SS&C is a global provider of investment, financial services and software for the financial services and healthcare industries. Named to Fortune 1000 list as top U.S. company based on revenue, SS&C is headquartered in Windsor, Connecticut and has 20,000 employees in over 90 offices in 35 countries. Some 18,000 financial services and healthcare organizations, from the world's largest institutions to local firms, manage and account for their investments using SS&C's product…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NjAwMTI2MDc4In0.Ds9ApjZ5ItjZoKtJMCoeWAky_ivodWN7dz6QNA0l8A8",
+      "id": "5600126078",
+      "created": "2026-01-25T15:22:24Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5600126078?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=50F24A0A1E841D1DBCE6465B5E1E460A8A6BF92E",
+      "salary_min": 37196.91,
+      "latitude": 51.503378,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IDEX Consulting Ltd"
+      },
+      "salary_max": 95000,
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MzkxMTU2NCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.6hitTasejeYzWEbOo9Akj-8zzXF_3974e48lieN7RRg",
+      "title": "Account Executive - Real Estate Specialist",
+      "description": "The OpportunityWe are working with a highly regarded, independent insurance group to appoint a senior Account Executive into its well-established Real Estate & Construction division .This is a key strategic hire within a division that has been successfully operating for several years and continues to invest heavily in long-term growth. The role has been created to support organic expansion and to further position the business as a leading specialist within the real estate insurance market .The …",
+      "created": "2026-01-21T13:21:27Z",
+      "id": "5593911564",
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 85000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593911564?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=9248B5C0987BB3DF48902021D1F5AB23BF7C8451"
+    },
+    {
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 53.408501,
+      "salary_min": 41734.76,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5590523273?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-01-18T18:43:50Z",
+      "id": "5590523273",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MDUyMzI3MyIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.4KXYDR-49wgF9BBkb1Yu2lT__CPhFyH2uPIG4gC-dMI",
+      "salary_is_predicted": "1",
+      "description": "Description Join Our Team as a Telemarketing Team Manager! Are you a dynamic sales leader with a proven track record in managing high-performing telesales teams remotely? We’re looking for an ambitious Telemarketing Team Manager to take charge of a growing team of appointment setters, driving performance, quality, and results for our field sales force. Takepayments is a dynamic and rapidly growing company dedicated to providing top quality merchant services. We are the UKs most trusted payments…",
+      "title": "Telemarketing Team Manager",
+      "salary_max": 41734.76,
+      "company": {
+        "display_name": "Global Payments Inc.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Stockport, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Stockport"
+        ]
+      },
+      "longitude": -2.14929
+    },
+    {
+      "id": "5593465224",
+      "created": "2026-01-21T02:43:13Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5593465224?utm_medium=api&utm_source=08e8c3e5",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "latitude": 51.6549,
+      "salary_min": 30000,
+      "longitude": -0.398203,
+      "location": {
+        "area": [
+          "UK",
+          "Eastern England",
+          "Hertfordshire",
+          "Watford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Watford, Hertfordshire"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Elite Mobile Ltd"
+      },
+      "salary_max": 30000,
+      "title": "Field Sales Executive",
+      "description": "Join the UKs Leading SIM Card Distributor and Fastest-Growing Vape Business! Elite Mobile / Galaxy Connect is experiencing unprecedented growth . As the distribution arm of the UKs largest Pay As You Go SIM card provider and one of the fastest expanding vape suppliers in the convenience sector, were pushing boundariesand we want you to be part of it. We're on the lookout for a Field Sales Executive in Watford to help us expand our e-cigarette business with independent retailers. What Youll Be D…",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkzNDY1MjI0In0.M0eZz1ADDgGiMzJ5tmNps0f3q5tIdOu5v4hkm-453t4"
+    },
+    {
+      "latitude": 52.483002,
+      "id": "5594182819",
+      "created": "2026-01-21T18:55:09Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDE4MjgxOSIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.CANylm6XxS57Zt58imbtkMKTlrc4Rt8j9iFdNdJ8wD8",
+      "salary_is_predicted": "0",
+      "title": "Telesales Administrator",
+      "contract_type": "permanent",
+      "location": {
+        "display_name": "Birmingham, West Midlands",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ]
+      },
+      "longitude": -1.89359,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 28080,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5594182819?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "A successful FMCG company are recruiting a Part-time Telesales Administrator in the Bartley Green area. Working in a small team you will be providing additional support across Monday - Thursday with flexibility to support on a Saturday during busy periods. A temp-to-perm role, working hours and days can be flexible. Reporting to the Sales Office Manager, you will play a key role in supporting customers, managing accounts and driving sales activity. As a Telesales Administrator you will be - Re-…",
+      "salary_max": 30160,
+      "company": {
+        "display_name": "ASC Connections Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time"
+    },
+    {
+      "company": {
+        "display_name": "COREcruitment Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 85481.09,
+      "longitude": -0.139134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NjAwMTI1ODU4In0.-kpWz_D_hTrXo4RackuPCRGUhpB9clPYDTQixjWz91I",
+      "title": "Sales Director",
+      "description": "Sales Director – High-End Events, London, Up to £90k  Commission We are working with a high-end London events business who are seeking a Sales Director to elevate the business and help achieve ambitious growth in the next phase of their journey. As a brand they are super passionate about great food, fantastic service, and providing amazing experiences for their guests! The Role: Create and implement a sales strategy to meet and exceed revenue targets Recruit, train, and manage a high-performing…",
+      "created": "2026-01-25T15:22:22Z",
+      "id": "5600125858",
+      "latitude": 51.503378,
+      "salary_min": 85481.09,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5600125858?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=12DBEB1D9A2CA235D3A125098D4241D490BA89C2"
+    },
+    {
+      "longitude": -5.997899,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Newtownabbey, County Antrim",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "County Antrim",
+          "Newtownabbey"
+        ]
+      },
+      "company": {
+        "display_name": "Charles Hurst",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 50000,
+      "title": "Used Car Sales Executive",
+      "description": "About us : We are one of the top three automotive retailers in the UK, proudly representing 32 manufacturer brands, selling a huge range of new and used vehicles from over 150 dealerships across the UK and Ireland. We believe our people are our greatest asset, and we're committed to recognising the valuable contribution each person makes. That's why we continue to invest in a leading rewards and benefits package designed to support your career, wellbeing, and life outside of work. Used Car Sale…",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5OTc1ODQ2OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.xp9dV8pSoL-GwBaC2uyO9XgOeeYqAB_ZRYgTfyCqceI",
+      "id": "5599758468",
+      "created": "2026-01-25T03:44:31Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5599758468?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=C1EDA349A05165EE23BAE5BB3DF25FC0F840562E",
+      "latitude": 54.727512,
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 50000
+    },
+    {
+      "id": "5591180518",
+      "created": "2026-01-19T10:21:27Z",
+      "latitude": 51.184474,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gatwick, Surrey",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Gatwick"
+        ]
+      },
+      "longitude": -0.685288,
+      "contract_type": "permanent",
+      "title": "Recruitment Consultant",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTE4MDUxOCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.BesVgdAQyY91crMdLMNrDpTyIa7boVza7e6dpmRwJx8",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591180518?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=E4F9BD52E41A02DC14673313D66A9CC1C9BFC118",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 30000,
+      "salary_max": 30000,
+      "company": {
+        "display_name": "Academics Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Recruitment Consultant - Education Sector Guildford £27,000 - £32,000  uncapped commission Are you an experienced recruitment consultant ready for your next big opportunity? Do you have a background in Education recruitment and want to join a team that truly supports your career development? Or maybe you're currently recruiting in another high-volume temp sector (like Industrial, Construction, or Catering) and are ready to step into a booming and rewarding market? If so, we'd love to hear from …"
+    },
+    {
+      "latitude": 51.942185,
+      "created": "2026-01-22T16:45:39Z",
+      "id": "5595583160",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk1NTgzMTYwIn0.vKMp1I2BLpvCWKUox9sPGrLEyXxlNT4r-reLZ3HEI6M",
+      "salary_is_predicted": "1",
+      "title": "Senior Manager Client Finance",
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Gloucestershire",
+          "Cheltenham",
+          "Bishops Cleeve"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bishops Cleeve, Cheltenham"
+      },
+      "longitude": -2.070552,
+      "salary_min": 54910.91,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5595583160?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Department Client Finance Employment Type Permanent Location Cheltenham Workplace type Hybrid Compensation £80,000 / year Reporting To Head of Client Finance Key Responsibilities Skills, Knowledge & Expertise Job Benefits About PoloWorks PoloWorks is the leading provider of UK-based support services to the insurance market. We have built a strong reputation as dedicated and dependable experts in our field. We pride ourselves on our ability to be flexible, responsive, and knowledgeable. As a lea…",
+      "salary_max": 54910.91,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PoloWorks"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "description": "Business Development Manager – Drive Growth in a Service Led Industry Are you a proven Business Development professional ready to take the next step in your career? We are looking for an experienced Business Development Manager with a strong background in service led industries (rather than product sales) to help drive our client’s next phase of growth. This is a fantastic opportunity to join a forward thinking business, with real autonomy, strong earning potential and a supportive leadership t…",
+      "contract_time": "full_time",
+      "salary_max": 50000,
+      "company": {
+        "display_name": "Sammons Recruitment Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591212286?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=C65A32CAD1F78F12FE6DFCFB10C5AC5686F72231",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 48000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "title": "Business Development Manager",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkxMjEyMjg2In0.KTFG0KezBCzJFkTN1cSY6tkWd_IypicxO09_fElUiQI",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Basingstoke",
+          "Cliddesden"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Cliddesden, Basingstoke"
+      },
+      "longitude": -1.089764,
+      "contract_type": "permanent",
+      "latitude": 51.265849,
+      "id": "5591212286",
+      "created": "2026-01-19T12:11:45Z"
+    },
+    {
+      "id": "5592254520",
+      "created": "2026-01-20T11:00:17Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592254520?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=F2A3AE6E42D8BFB456CFA8B0572EC1B4CF8819B1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 64909.76,
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "The City"
+        ],
+        "display_name": "The City, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 64909.76,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SupportRoom"
+      },
+      "description": "Partnerships Manager – UK Compensation: Based on experience & interview performance. At SupportRoom, we transform workplace wellness, performance, and growth by combining onsite clinical operations, cutting-edge technology, and expert services. Our all-in-one workplace experience delivers: • Mental & physical wellness support: Therapists, coaches, mentors, and wellness programs • Technology-led engagement: Video, voice, chat sessions, messaging, and journaling • Employee analytics & insights: R…",
+      "title": "Partnerships Manager",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkyMjU0NTIwIn0.21bTI-pDDN44-seSnOxffb-gW7d_eQsc6LzKMQkVzB4",
+      "salary_is_predicted": "1"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTkwMzMxOTM5In0.2eczg0FtTj03T0VZOExgtJWF6Sqd-04sUyBL3r3j5v0",
+      "salary_is_predicted": "1",
+      "description": "Business Development Representative (BDR) Location: Remote or London based Type: Full-time Company: Tangent About Tangent Tangent is a career platform that connects ambitious jobseekers directly with mentors and employers. Instead of endless applications, candidates introduce themselves through short videos and build real relationships. We work with fast-growing companies and sales leaders who want to hire for potential, not just CVs. The Role As a Business Development Representative at Tangent…",
+      "title": "BDR London",
+      "salary_max": 44721.39,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tangent"
+      },
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 44721.39,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5590331939?utm_medium=api&utm_source=08e8c3e5",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-01-18T09:41:03Z",
+      "id": "5590331939"
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "North East England",
+          "Tyne & Wear",
+          "Newcastle Upon Tyne"
+        ],
+        "display_name": "Newcastle Upon Tyne, Tyne & Wear",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -1.746207,
+      "contract_type": "permanent",
+      "title": "Sales Development Manager",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5Mzg0MDI0OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.eECjSaxvmHI-h_pUhCXA7-aP5H-jk_aHFl3tNheNyWI",
+      "salary_is_predicted": "0",
+      "id": "5593840248",
+      "created": "2026-01-21T10:30:51Z",
+      "latitude": 55.028274,
+      "salary_max": 35000,
+      "company": {
+        "display_name": "Anglian Home Improvements",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "We have an exciting new opportunity for a Sales Development Manager to enhance our regional sales team We are seeking an experienced sales professional who is now looking to stretch their business development and management potential to the next level. With your drive and enthusiasm, you will be part of the regional senior team, supporting the Regional Sales Manager to grow and develop our existing sales force. You will be responsible for ensuring recruitment targets are reached by assessing po…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593840248?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=A322FE56668FF89A246CF854CF472D814EB34E39",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 35000
+    },
+    {
+      "description": "Join us as a Multi-Site Sales Advisor covering primarily our stores in Newcastle, Sheffield, Manchester, and Northampton as well as pop-up shops and trade shows. There may be occasions when the role will need to cover other sites across England! With a base salary of £28,000 along with an uncapped discretionary bonus scheme from day one where you could expect to earn up to £500 per month. We are also offering the Multi-Site Sales Advisor role A base salary of £28,000 Pension scheme A discretion…",
+      "salary_max": 28000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BODYPOWER SPORTS LTD"
+      },
+      "salary_min": 28000,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595268018?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=79F35B6EBB2B4E543162F3E4E5EE6FF61D05A915",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk1MjY4MDE4In0.1bfa_I_UJ9Z_-5A-Bte2npsKJP-mxXRei0J2PM6VoEY",
+      "salary_is_predicted": "0",
+      "title": "Multi-Site Sales Advisor",
+      "contract_type": "permanent",
+      "location": {
+        "display_name": "Swalwell, Newcastle Upon Tyne",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North East England",
+          "Tyne & Wear",
+          "Newcastle Upon Tyne",
+          "Swalwell"
+        ]
+      },
+      "longitude": -1.676967,
+      "latitude": 54.956319,
+      "created": "2026-01-22T07:22:19Z",
+      "id": "5595268018"
+    },
+    {
+      "latitude": 51.503378,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_min": 117892.71,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5600126106?se=8m8F4kH68BGsd-RaNSTYUQ&utm_medium=api&utm_source=08e8c3e5&v=8BA4835026B0F060D4476578ABD895288EA24891",
+      "created": "2026-01-25T15:22:24Z",
+      "id": "5600126106",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwMDEyNjEwNiIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.lPWckBXHXxInj1Noh1Vc3UwpQTbZYYVIy0rRDrShTd8",
+      "title": "VP Sales (UK)",
+      "description": "At Berg Search, we are committed to helping innovative companies thrive by delivering top-tier talent solutions. With deep expertise in recruiting for tech, marketing, and other critical roles, we connect ambitious companies with the perfect talent to accelerate growth. Founded by experienced entrepreneurs, we know that the right hire makes all the difference. On behalf of our client, a fast-growing AI-powered SaaS company transforming how work gets done in the deskless world , we are looking f…",
+      "company": {
+        "display_name": "Berg Search",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 117892.71,
+      "longitude": -0.139134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      }
+    },
+    {
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 50000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5596782964?utm_medium=api&utm_source=08e8c3e5",
+      "id": "5596782964",
+      "created": "2026-01-23T03:43:48Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk2NzgyOTY0In0.g2-JUG5AHPRifnGkx57kvdstVRpbFhH4VhUN9vpSW8o",
+      "title": "Customer Success Lead - Channel Partners - Saas",
+      "description": "Artemis Human Capital are recruiting for a Customer Success Lead on behalf of an ambitious local SaaS firm going through exciting growth. With a channel-first approach, they partner with leading telematics resellers and fleet technology providers, enabling them to scale faster and win more customers. During their growth, they are seeking a Customer Success Lead to ensure their partners and their customers achieve maximum value from their solutions. About the Role The Customer Success Lead is re…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Artemis Search & Selection Limited"
+      },
+      "salary_max": 50000,
+      "location": {
+        "display_name": "Belfast, Northern Ireland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "Belfast"
+        ]
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK"
+      },
+      "company": {
+        "display_name": "Slicker Recycling",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 29755.86,
+      "title": "New Business Sales Executive - South of UK",
+      "description": "Slicker Recycling is the market leader in sustainable resource solutions. We are committed to the circular economy through excelling in used lubricating oil collections, re-refining and a range of sustainable waste management services. Our team of over 200 colleagues manage a vast fleet of specialist collection vehicles, serving thousands of customers across diverse industry sectors with services that reduce carbon footprint, uphold compliance, and enable a truly circular approach to waste reso…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5ODkxOTIyNiIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.CD4s4gg3bQUyQcUyDmCDnIGTSnELPFqT9UopbJLsr3s",
+      "id": "5598919226",
+      "created": "2026-01-24T16:48:26Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5598919226?utm_medium=api&utm_source=08e8c3e5",
+      "salary_min": 29755.86,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "created": "2026-01-23T19:29:57Z",
+      "id": "5597590966",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5597590966?utm_medium=api&utm_source=08e8c3e5",
+      "salary_min": 20000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ]
+      },
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pear Recruitment"
+      },
+      "salary_max": 40000,
+      "title": "Lettings Negotiator",
+      "description": "Pear Recruitment – Lettings Negotiator – Surbiton Salary – £20,000  Commission (OTE £35,000-£40,000) & car allowance £3’000 5-day week – Monday-Friday 9am-6pm – 1 Saturday off a month Saturday 9am – 4pm (Day off in the week) Driver & own car required We have an exciting Role for a Lettings Negotiator in Surbiton Are you looking for the next step in your career. This role offers a dynamic environment where you will be highly valued and rewarded. Based in the bustling Surbiton office, this positi…",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOG04RjRrSDY4QkdzZC1SYU5TVFlVUSIsImkiOiI1NTk3NTkwOTY2In0.AbjUYeLhIn2k_oh28qAtTJdW0YO6Tnxd8AwZvL8wCUg"
+    },
+    {
+      "created": "2026-01-22T19:23:51Z",
+      "id": "5596029388",
+      "salary_min": 30000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5596029388?utm_medium=api&utm_source=08e8c3e5",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CCA Recruitment Group"
+      },
+      "contract_type": "permanent",
+      "salary_max": 35000,
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NjAyOTM4OCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.lwrPi0UJ9VOalU1PGfdvWSPA43BB4Ja7qlODgtlZlMo",
+      "title": "Sales Contact Centre Team Leader",
+      "description": "? Sales Contact Centre Team Leader - Join Our Leadership Team! £30,000 - £35000 Didsbury Manchester Full-Time | Managing 1 Team Leader & ~10 Agents We're looking for an experienced and inspiring Senior Team Leader to help drive performance, elevate customer experience, and create a positive, supportive team culture. If you're passionate about coaching others, leading from the front, and influencing operational success, this role is for you. �? About this a Sales Contact Centre Team Leader Role …"
+    },
+    {
+      "title": "Reservations Agent - Courtyard by Marriott Edinburgh",
+      "description": "£25,750.40 per annum /£12.38 per hour, 40 hours per week (5 days) Are you a dynamic and customer-focused professional with a passion for driving revenue and business growth? We are seeking a Reservations Agent to join our dedicated team. In this role, you will implement strategies to maximize business growth through effective pricing, inventory controls, and the conversion of enquiries. You will be an ambassador of our purpose, values, and behaviors, ensuring superior customer service and opera…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NzQ1NzY1MCIsInMiOiI4bThGNGtINjhCR3NkLVJhTlNUWVVRIn0.Df5cPFsxZ8_Tcn6Q2tQXNuUHRZ8qbfYrHb7-mvogCNA",
+      "longitude": -3.18446,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Edinburgh City Centre, Edinburgh",
+        "area": [
+          "UK",
+          "Scotland",
+          "Edinburgh",
+          "Edinburgh City Centre"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Valor Hospitality"
+      },
+      "salary_max": 30004.83,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5597457650?utm_medium=api&utm_source=08e8c3e5",
+      "salary_min": 30004.83,
+      "latitude": 55.957473,
+      "category": {
+        "tag": "sales-jobs",
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-01-23T19:04:50Z",
+      "id": "5597457650"
+    }
+  ]
+}

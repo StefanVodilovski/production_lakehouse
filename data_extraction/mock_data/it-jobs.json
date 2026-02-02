@@ -1,0 +1,1666 @@
+{
+  "count": 49208,
+  "results": [
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 44386.14,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594706299?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=35F9E5DBEBF92FA3CDE2BDB6C45F295FF7C606E0",
+      "longitude": -3.20408,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Cumbria",
+          "Askam-In-Furness"
+        ],
+        "display_name": "Askam-In-Furness, Cumbria",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "SAP Quality Management Professional",
+      "latitude": 54.188702,
+      "id": "5594706299",
+      "salary_max": 44386.14,
+      "created": "2026-01-21T21:26:15Z",
+      "description": "Job Title : SAP Quality Management Professional Location: Barrow-in-Furness. We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Competitive What you’ll be doing Resolving SAP incidents relating to SAP Quality Management solutions Managing requirements analysis by understanding the implications of requests for change coming in from the end user community and working with key stakeholders, alongside ERP …",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "BAE Systems",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk0NzA2Mjk5In0.c7YrVz6VsZLRPd94BTbRbYeM56suhVAxgAMlziDx62Y"
+    },
+    {
+      "salary_max": 44800.32,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BAE Systems"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDcwNjM4MSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.X7WKrUsTGnF9O4C5v6vOwQ3Qk6IgPFlj1PYFq2B6EJs",
+      "salary_is_predicted": "1",
+      "created": "2026-01-21T21:26:16Z",
+      "description": "Job Title: Supply Chain Manager – Edgewing Location: : Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrangements may …",
+      "salary_min": 44800.32,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594706381?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=36D8E6AE23ED3BE0FE9D5FA05E97D972875A52FB",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5594706381",
+      "latitude": 52.8092,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Supply Chain Manager (Edgewing)",
+      "longitude": -2.3332,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warton, Newport",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Staffordshire",
+          "Newport",
+          "Warton"
+        ]
+      }
+    },
+    {
+      "description": "Hello, Thank you for your interested in our L2-L3 Systems Engineer position here at Teleperformance UK. We’re looking for a self-driven and proactive Systems Engineer (Level 2–3) with a genuine passion for technology and problem-solving. This role is ideal for someone who thrives in dynamic environments, takes ownership of their work, and brings solid experience primarily with Microsoft infrastructure and cloud solutions. You’ll be part of a team that values initiative, continuous learning, and…",
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Kenn, Clevedon",
+        "area": [
+          "UK",
+          "South West England",
+          "North Somerset",
+          "Clevedon",
+          "Kenn"
+        ]
+      },
+      "longitude": -2.849924,
+      "title": "Systems Engineer - Grade B2",
+      "latitude": 51.435107,
+      "salary_max": 78890.19,
+      "created": "2026-01-22T21:30:59Z",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NjI3Mjk2MCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.67fBgT0FsNigYJU87ipXt7KAe9bdLtVBxMkClJGXauc",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5596272960?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=EF758215BB738FFC9F04E417B352323B3B44FDE3",
+      "salary_min": 78890.19,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5596272960"
+    },
+    {
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BAE Systems"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk0NzA2MzQ1In0.yXH09S6OPD3RyU1oNCayJ1qWk2OYtIb5eFgChfW9SxA",
+      "description": "Job Title : SAP Quality Management Professional Location: Barrow-in-Furness. We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Competitive What you’ll be doing Resolving SAP incidents relating to SAP Quality Management solutions Managing requirements analysis by understanding the implications of requests for change coming in from the end user community and working with key stakeholders, alongside ERP …",
+      "created": "2026-01-21T21:26:15Z",
+      "salary_max": 47236.5,
+      "id": "5594706345",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Barrow-In-Furness, Cumbria",
+        "area": [
+          "UK",
+          "North West England",
+          "Cumbria",
+          "Barrow-In-Furness"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "SAP Quality Management Professional",
+      "longitude": -3.22569,
+      "latitude": 54.117199,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594706345?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=7019EB9E17CFBF8190C5F908ACF1859F0D33562B",
+      "salary_min": 47236.5
+    },
+    {
+      "salary_max": 52187.31,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Newto Training"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTY1ODQzOTIzIn0.gyLK6OIwBqMLw7V1YDlcJnOVFTrsVWZ8cRFFJVf8SFY",
+      "salary_is_predicted": "1",
+      "description": "Are you ready to start a new career in Data Analysis? The demand for Data Analysts has grown by 20% annually, with experienced professionals earning salaries upwards of £58,000. In today’s digital world, data is critical to business decision-making, making the role of a Data Analyst indispensable. As skills shortages continue to grow, the demand for qualified entry-level professionals is on the rise. With our Data Analytics career programme we will provide you with: 8 training modules: Excel, S…",
+      "created": "2026-01-03T07:45:42Z",
+      "contract_time": "full_time",
+      "salary_min": 52187.31,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5565843923?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=4B0FE31857084B01803FE93E88DD9F05EA8EB1CF",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "id": "5565843923",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Data Analyst - No experience needed - job guarantee"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594706342?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=285F1A45CD57413E21B8A07363E61693ED3310BA",
+      "salary_min": 41153.29,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Senior Planning, Monitoring & Control Professional – Planning",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Cumbria",
+          "Barrow-In-Furness"
+        ],
+        "display_name": "Barrow-In-Furness, Cumbria"
+      },
+      "longitude": -3.22569,
+      "latitude": 54.117199,
+      "id": "5594706342",
+      "salary_max": 41153.29,
+      "created": "2026-01-21T21:26:15Z",
+      "description": "Job Title: Senior Planning, Monitoring & Control Professional – Planning Location: Barrow-in-Furness. We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role. Salary: Competitive What you’ll be doing: Performing intermediate project scheduling & reporting Preparing, analysing , and presenting data into summary reports to a diverse range of stakeholders across multiple levels Supporting risk management tasks such as…",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk0NzA2MzQyIn0.VoU9EuxuMiJ9kc86aGUg9uxJSq_8qoz4PaMFOwwljdk",
+      "company": {
+        "display_name": "BAE Systems",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk0MTE3MzQwIn0.j_AAk8VQu053KVfRSdoNbDK4lQtri6gfRKeex4n4aWg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "KP Snacks"
+      },
+      "description": "Continuous Improvement Deployment Manager (known internally as IWS Deployment Manager) Hellaby (Home of KP Nuts) On-site Join our snack-loving team We’re looking for an IWS Deployment Manager to join us at KP Snacks. If you’re ready to bring your ideas to the table, grow your skills and be part of a team that values what makes you, you – this could be your next big move. About the role As IWS Deployment Manager, you’ll support the Site IWS Manager and Pillar Leads in the execution of the IWS pr…",
+      "created": "2026-01-21T17:55:58Z",
+      "salary_max": 63716.12,
+      "id": "5594117340",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "longitude": -1.244507,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hellaby, Rotherham",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "South Yorkshire",
+          "Rotherham",
+          "Hellaby"
+        ]
+      },
+      "title": "Continuous Improvement Deployment Manager",
+      "latitude": 53.428062,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594117340?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=CFE3673EA5446FFDC4523A9CB783D424EDE37F9A",
+      "salary_min": 63716.12
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "latitude": 50.798901,
+      "longitude": -1.09116,
+      "title": "Network Systems Architect",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Portsmouth"
+        ],
+        "display_name": "Portsmouth, Hampshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Networks Solution Architect Location: Dorset or Devon (Hybrid - 3 days per week onsite) Salary: Up to £75,000  benefits Security Clearance: Required or eligible The Role An established defence-focused technology organisation is seeking a Networks Solution Architect to design and deliver secure, mission-critical network solutions for complex operational environments. This role sits at solution level, shaping architectures from concept through to delivery while working closely with senior technic…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593838632?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=E93EF739C2C26CAA9971CB61AB56A0743C53C65C",
+      "salary_min": 75000,
+      "id": "5593838632",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_max": 75000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Experis"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTkzODM4NjMyIn0.Kd_V77sd-gDy4b8t7QJK8xRRDYX2zpQU7hwE9gYcnxA",
+      "salary_is_predicted": "0",
+      "created": "2026-01-21T10:28:29Z"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sanderson Recruitment"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NzY3MTgzNyIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.siZRNqF522vxk4fm-NIuTt_wuq9_cGto2eX_z8rI5B4",
+      "salary_is_predicted": "1",
+      "created": "2026-01-16T09:44:43Z",
+      "salary_max": 62901.06,
+      "id": "5587671837",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_min": 62901.06,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5587671837?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=EB65AAAAAD9F14E4D9AE188FEC1A0A41D81E072B",
+      "description": "Sanderson Government and Defence are supporting a commercial supplier to government in their search for a Cloud Developer to work out of either London, Manchester or Gloucestershire. This client, aside from offering a very strong package, offer an excellent development programme, with a real willingness to support both financially and otherwise. Role Responsibilities Collaborate with project stakeholders to develop a strong understanding of the business environment, technical landscape, and org…",
+      "latitude": 53.954491,
+      "location": {
+        "display_name": "North West England, UK",
+        "area": [
+          "UK",
+          "North West England"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Cloud Developer",
+      "longitude": -2.749077,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "TJX Companies At TJX Europe, every day brings new opportunities for growth, exploration, and achievement. You'll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritises your development. Whether you're working in our Distribution Centers, Corporate Offices, or Retail Stores-TK Maxx & Homesense, you'll find abundant opportunities to learn, thrive, and make an impact. Come join our TJX team-a Fortune 100 company and the world's leading off-price retailer. Job D…",
+      "longitude": -0.396664,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Leavesden, Watford",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Hertfordshire",
+          "Watford",
+          "Leavesden"
+        ]
+      },
+      "title": "Senior Product Analyst - POS & Payments Quality",
+      "latitude": 51.660599,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTkxMDg2MjEzIn0.oknJmuy3i5h6Ic-vPMqtsRILAc5UKAlCd_Its2bRHBI",
+      "company": {
+        "display_name": "TJX UK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-01-19T06:20:33Z",
+      "salary_max": 39478.27,
+      "id": "5591086213",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591086213?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=792359989CE0B6D1F0EAEEEF2E9013CB3B02FCAA",
+      "salary_min": 39478.27
+    },
+    {
+      "salary_max": 50000,
+      "created": "2026-01-21T10:30:43Z",
+      "description": "Role: Applications Manager Location: Cardiff Salary: £52,000 We are proud to be working with a multi-award winning housing association who prides themselves on the relationship they have and maintain with their tenants. The Role You will work closely with Infrastructure and IT Support teams to ensure applications are secure, stable, and continuously improved, managing incidents, upgrades, fixes, and enhancements. The role also supports business change by partnering with senior stakeholders to t…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5Mzg0MDE5MSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.3SlER3M05uiFrbO9HvQg4Rb9aK-9tshfzctBZG7Gvdg",
+      "company": {
+        "display_name": "Yolk Recruitment Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593840191?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=1103399490D191B592497DB7B0ADC6681E1477EF",
+      "salary_min": 50000,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Applications Manager",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Cardiff County, Wales",
+        "area": [
+          "UK",
+          "Wales",
+          "Cardiff County"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5593840191"
+    },
+    {
+      "description": "Customer service/ IT support job paying £28,000 - £30,000 near Egham Your new company You will be working for a well recognised brand who are also employers of choice for the area. Your new role You will be delivering 1st line IT support for 300 employees. You will have excellent customer service skills and an interest in IT and technology. You will have customer service skills and a keenness to help others. You will be responsible for taking in and logging issues. Adding them to a \"ticketing\" …",
+      "latitude": 51.430801,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Egham"
+        ],
+        "display_name": "Egham, Surrey"
+      },
+      "title": "Customer Service - IT support",
+      "longitude": -0.548153,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTgxOTU3NTU3In0._1JhSLuWYWY-_jW4wbvT_uMsAMIK2Q_IF-btgVIWt3I",
+      "company": {
+        "display_name": "HAYS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "created": "2026-01-13T08:34:04Z",
+      "salary_max": 30000,
+      "id": "5581957557",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5581957557?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=BF5DAC64C9F5947939CFAECD915E0AF155501A86",
+      "salary_min": 28000
+    },
+    {
+      "salary_max": 30000,
+      "created": "2026-01-15T06:37:25Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NTc1NDI0NyIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.zz2gSvVjw0bEjeqRQPCeWTF_HHhuoeas6E1GgR5Rm3I",
+      "company": {
+        "display_name": "Bond Williams Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585754247?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=C926051303C91EABBCC472C9C8B99D20430A2DAD",
+      "salary_min": 30000,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5585754247",
+      "description": "Information Governance & Compliance Lead - Poole-Up to £33,000 We're seeking a proactive and detail-driven Information Governance & Compliance Lead. You'll play a key role in protecting data integrity, supporting compliance with UK GDPR, the Data Protection Act 2018, and the NHS Data Security & Protection Toolkit (DSPT). As the Information Governance & Compliance Lead, you will play a vital role in safeguarding data integrity and ensuring the organisation meets National information governance s…",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -1.98113,
+      "title": "Information Governance and Compliance Lead -Poole-Upto £33,000",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Poole, Dorset",
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Poole"
+        ]
+      },
+      "latitude": 50.719398
+    },
+    {
+      "salary_min": 143000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5580231576?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=801BEB72552EA44C7753EB4CD445E8277A7B364F",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "ServiceNow Technical Architect",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK"
+      },
+      "id": "5580231576",
+      "salary_max": 149500,
+      "created": "2026-01-12T06:28:16Z",
+      "description": "Job Details Job Title: ServiceNow Technical Architect Work Mode: Hybrid Location (if hybrid/office-based): Guildford / London (2 to 3 days) Role Description Need a ServiceNow CSM (Customer Service Management) or ITSM Architect with strong integration experience who will design, implement, and maintain ServiceNow CSM/ITSM solutions to meet business needs. This role involves creating scalable and efficient architectures, ensuring alignment with best practices, and providing technical leadership t…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Stackstudio Digital Ltd."
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4MDIzMTU3NiIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.NCFmOUiR7TsSd_OAASiemyuINNtFcELviDvjrze28UE",
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 104000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5548423005?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=F8AB070CE971A6454CF14544BDFD2F9E467F85CA",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Senior Verification Engineer RF/DSP",
+      "id": "5548423005",
+      "salary_max": 117000,
+      "description": "Role/Job Title: Senior Verification Engineer RF/DSP Work Location: UK, Belfast (Remote) The Role Senior Verification Engineer RF/DSP Your Responsibilities: Drive verification for DSP/RF signal-chain blocks using UVM and advanced verification techniques. Validate algorithms such as FFT, FIR, and channelizers. Your Profile Essential Skills/Knowledge/Experience: UVM, class-based testbench, VIP integration DSP verification (FFT, FIR, channelizer) Python scripting and CI/CD environments Git proficie…",
+      "created": "2025-12-19T10:27:26Z",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Stackstudio Digital Ltd.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTQ4NDIzMDA1In0.M9uYweTKlBzilH2Yq9on-Lve2uwapZ3e-lfHbGFRhyA"
+    },
+    {
+      "salary_max": 35000,
+      "created": "2026-01-20T13:15:36Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTkyMjkwNzEwIn0.hAb-zKYsoSO_N5K2IoOZ7mr7v82Jcib3fF1CrqR046o",
+      "company": {
+        "display_name": "ITOL Recruit",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 26000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592290710?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=A5394331C54E2E3D90E7EAF78A1C49911E467102",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5592290710",
+      "description": "Cyber Security Placement Programme - No Experience Required Are you looking to benefit from a new career in IT and Cybersecurity? Skills shortages in the IT sector are driving the need for qualified, entry-level career seekers and career changers. We help place graduates from this programme in top UK companies and organisations needing to employ entry-level IT and Cybersecurity staff that can hit the ground running with up-to-date skills gained from this programme. The best part is you will not…",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "title": "Trainee Cyber Security",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Liverpool, Merseyside",
+        "area": [
+          "UK",
+          "North West England",
+          "Merseyside",
+          "Liverpool"
+        ]
+      },
+      "longitude": -2.97784,
+      "latitude": 53.410801
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5587525806?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=02367005F2638DAAE838FB9D76E7B2DE1FDF60C3",
+      "salary_min": 65000,
+      "id": "5587525806",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 65000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sopra Steria"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NzUyNTgwNiIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.C4pEUxYooqhyiA0Muhk3ZphCZFvB19NEdri-4v8OXSQ",
+      "salary_is_predicted": "0",
+      "created": "2026-01-16T06:40:13Z",
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.293999,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Farnborough"
+        ],
+        "display_name": "Farnborough, Hampshire"
+      },
+      "longitude": -0.754624,
+      "title": "Automation Engineer",
+      "description": "Are you ready to make a real impact in a dynamic, high-stakes environment? We're looking for an Automation Engineer with Satellite experience to join our team within the Aerospace, Defence, and Security sector. This is your chance to blend your software engineering and operations skills to drive automation, monitor system performance, and enhance infrastructure at scale. In this vital role, you will ensure our systems are high-performing, resilient, scalable, and secure. Your expertise will hel…"
+    },
+    {
+      "created": "2026-01-23T10:32:53Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk3MDYzMDQ3In0.1TW4vr9qgYFfauaJGFnX3Iga30u0H0L6SsiWPL9mId8",
+      "company": {
+        "display_name": "CBSbutler Holdings Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 160420,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5597063047",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597063047?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=D1E06616449110C70391B63E9A77DE95FDAEF6A8",
+      "salary_min": 160420,
+      "description": "Job title: Infrastructure Architect - Silverfort SME Location: Knutsford (Cheshire)/Hybrid (3days per week on site Duration: 6 months Rate : £617 per day inside ir35 Role Description: We are seeking a SilverFort Subject Matter Expert to own, operate and continuously enhance SilverFort as a core Barclays service, delivering a unified identity and access management platform across the organisation. This role will act as the primary technical authority for SilverFort, responsible for its architect…",
+      "longitude": -2.37271,
+      "title": "CGEMJP00327121 Infrastructure Architect - Silverfort SME",
+      "location": {
+        "display_name": "Knutsford, Cheshire",
+        "area": [
+          "UK",
+          "North West England",
+          "Cheshire",
+          "Knutsford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 53.301102,
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Right across infrastructure, theres a requirement to not only maintain, but also renew and reimagine. Whatever stage youre at in your career; with us youll have an opportunity to grow and develop. Delivering essential infrastructure services for life, while being safety first, and client and customer centric in afriendly, fun and respectful environment where you are encouraged to thrive. Where will you be working? At M Group Telecom, were enabling and enhancing telecom networks, playing a lead …",
+      "latitude": 50.941328,
+      "location": {
+        "display_name": "Lee, Romsey",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Romsey",
+          "Lee"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Supervisor",
+      "longitude": -1.485203,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3OTEyMjQ4NyIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.tg4_YiSOiocTolHfQ1dMO4vCSz0z7mTjn2VExDKONUY",
+      "company": {
+        "display_name": "M Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "created": "2026-01-11T06:26:57Z",
+      "salary_max": 36438.24,
+      "id": "5579122487",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_min": 36438.24,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5579122487?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=565F136B17B6F80167AC1E6901351CFDF6593ED5"
+    },
+    {
+      "description": "Role/Job Title: Power Systems Applications Engineer Network Transmission Work Location: Edinburgh / Remote Mode of Working (Hybrid/Office Based): Hybrid The Role Responsibilities: Responsible for advanced Power Systems Application software development and successful delivery of assigned functions to meet corporate project/product commitments. Work with Electric Utilities, ISOs (Independent System Operators), and TSOs (Transmission System Operators) on functional software specifications. Designi…",
+      "created": "2026-01-23T08:05:19Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk3MDEzODA1In0.hiWQqHDi_1vB8uixWzIyKG-ksnAbhW8eM9GFzxC6vEs",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Stackstudio Digital Ltd."
+      },
+      "salary_is_predicted": "0",
+      "salary_max": 143000,
+      "latitude": 55.86026,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": -4.25596,
+      "title": "Power Systems Applications Engineer Network Transmission",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Glasgow, Scotland",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ]
+      },
+      "id": "5597013805",
+      "salary_min": 130000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597013805?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=9116EFF7590C5F53A23330C5E9AB2E65BB65A108",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "latitude": 50.798901,
+      "title": "Software Developer",
+      "longitude": -1.09116,
+      "location": {
+        "display_name": "Portsmouth, Hampshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Portsmouth"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Job Description: SECURITY CLEARANCE* : * Eligibility to gain UK SC Security Clearance TRAVEL REQUIRED* : * Occasional travel within UK / and international LOCATION* : Portsmouth * (60% of your working week must be office based) TYPE* : * Full time WHAT'S IN IT FOR YOU * Financial Reward* : * Competitive salary, annual profit share, contributory pension, share options, car leasing scheme, free onsite parking, season ticket loan, tax-free technology scheme, discounted shopping and much more * Wor…",
+      "salary_min": 39994.51,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597030510?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=A038CF08029C19F700825B6E49BCFD45C6268D9E",
+      "id": "5597030510",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_max": 39994.51,
+      "company": {
+        "display_name": "AIRBUS Defence and Space Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk3MDMwNTEwIn0.y4wn6ZdjCH8XirCsHlikVhaIvCeZ53Edb5wgWaofii8",
+      "salary_is_predicted": "1",
+      "created": "2026-01-23T09:22:07Z"
+    },
+    {
+      "description": "Are you an experienced engineer with a passion for developing innovative weapon systems? Our client, a renowned Defence company based in Bristol, is seeking a capable OWE Lead Engineer, who holds a minimum of SC clearance, to lead the integration and testing of novel systems. This is a fantastic opportunity to contribute to cutting-edge projects within a supportive, professional environment. What Youll Be Doing As the One Way Effector (OWE) Lead Engineer, youll report directly to the OBI Lead &…",
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "One Way Effector (OWE) Lead Engineer - SC cleared",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bristol, South West England",
+        "area": [
+          "UK",
+          "South West England",
+          "Bristol"
+        ]
+      },
+      "longitude": -2.5919,
+      "latitude": 51.455299,
+      "salary_max": 56978.64,
+      "created": "2026-01-21T22:39:26Z",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk0Nzc3Njk0In0.YKcCUuJ42RLQZg_VdWvvVMirzzm9yl8TEZPb2E93Zps",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Evodia Limited"
+      },
+      "salary_min": 56978.64,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5594777694?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=D0F4593B5F64E2957E40297EA5FD2835AAEA3853",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "5594777694"
+    },
+    {
+      "latitude": 55.86026,
+      "longitude": -4.25596,
+      "title": "Principal Firmware Engineer - Glasgow",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ],
+        "display_name": "Glasgow, Scotland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "description": "Principal Firmware Engineer Glasglow Permanent iO Associates are working with an outstanding engineering company that are looking to add a Principal member to their Firmware team to provide technical leadership, due to ongoing growth. They deliver solutions for technology challenges and with this role being a Principal vacancy, you will have the chance to take ownership of development with the projects that you will be working on. Required skills 7 years of experience with embedded software dev…",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5592136991",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592136991?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=2A5A4A038E026E20FC5BEC87632F44A06F006824",
+      "salary_min": 50931.84,
+      "created": "2026-01-20T06:22:07Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IO Associates"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MjEzNjk5MSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.llD4MjEuG_hBmf7K78MgTuS782HPDMFM0OSmXoUgxRY",
+      "salary_is_predicted": "1",
+      "salary_max": 50931.84
+    },
+    {
+      "description": "DevX Build Pipeline Engineer 11 month  Hybrid working with Birmingham / Sheffield / Edinburgh Inside IR35 £525 - £548 a day Skills: CI / CD pipeline Python Jenkins We are seeking an experienced DevX Build Pipeline Engineer to own and evolve a critical Jenkins Shared Library that powers multi-language build pipelines across the organisation. You will play a key role in delivering fast, secure, and provenance-rich CI/CD pipelines, strengthening software supply-chain integrity and enabling enginee…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "latitude": 52.483002,
+      "title": "DevX Build_Pipeline Engineer",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "display_name": "Birmingham, West Midlands"
+      },
+      "longitude": -1.89359,
+      "salary_max": 82412.57,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTgzODUxOTkyIn0.6CMIdR6U9LYack6xusE0j6C-zF7MgfC3ApV2Dl0bepQ",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CBSbutler Holdings Limited"
+      },
+      "salary_is_predicted": "1",
+      "created": "2026-01-14T10:46:09Z",
+      "salary_min": 82412.57,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5583851992?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=5F51F93F4AF56BAFF5B759E6216D7BC8661329ED",
+      "id": "5583851992",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "longitude": -0.780178,
+      "title": "Client Experience Executive",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Chichester, West Sussex",
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Chichester"
+        ]
+      },
+      "latitude": 50.836601,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "description": "Client & hospitality; commercial & operational; event & customer experience Client Experience Executive Assignment Type: Temporary, ongoing basis where you will be engaged via Hays.Location: ChichesterWorking Environment: office based on a site - hybrid.Pay type: Competitive hourly pay rate. Our client The world’s pre-eminent super-luxury automotive brand is based in Goodwood, near Chichester, West Sussex, which comprises its global headquarters and Global Centre of Luxury Manufacturing Excelle…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5581957613",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5581957613?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=4CFF854C2F2908ACB366BD148032B95C620F2A92",
+      "salary_min": 37934.93,
+      "created": "2026-01-13T08:34:04Z",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "HAYS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTgxOTU3NjEzIn0.GeVQNQQadjI2mpDjwJ3VUTHFmRIpYmzJe3Bgg9yLmEc",
+      "salary_max": 37934.93
+    },
+    {
+      "salary_max": 45000,
+      "created": "2026-01-12T22:31:27Z",
+      "company": {
+        "display_name": "Deerfoot Recruitment Solutions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4MTI3ODU4NSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.AI5OnAPE_-9K93hPtrvnHz4kLj4FGFTeGzllpBun-do",
+      "salary_is_predicted": "0",
+      "salary_min": 45000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5581278585?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=86C443222DB5A02506A109608E49DD589DE9CA89",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5581278585",
+      "description": "Full Stack Software Developer (C# / Web / SQL Server) x 2 - up to 45K Well-established software solutions company is currently seeking two experienced Full Stack Software Developer to join its software development team based in Cowes, Isle of Wight . This opportunity is ideal for developers who want to work on mission-critical, high-quality software solutions that provide actionable insights and help organisations operate more efficiently, safely and sustainably. The successful candidate will c…",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 50.757599,
+      "longitude": -1.28813,
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Isle Of Wight",
+          "East Cowes"
+        ],
+        "display_name": "East Cowes, Isle Of Wight",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Full Stack Software Developer"
+    },
+    {
+      "latitude": 57.147499,
+      "longitude": -2.0954,
+      "title": "Principle Java Engineer",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Aberdeenshire",
+          "Aberdeen"
+        ],
+        "display_name": "Aberdeen, Aberdeenshire"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "description": "Principle Java Software Engineer Edinburgh/Newcastle/Manchester Up to £95,000 I am looking for a Principle Java Software Engineer to join a leading international network security software company This is a fantastic opportunity to work with cutting-edge technology and make a real impact in the industry. You will join a small close-knit IT team supporting the internal operations and support a globally dispersed workforce. The Role: Software development and support of complex and algorithmic Java…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5592261920",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592261920?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=3A100B7C1D9323E2DD7A72559F8246B9D8F61E31",
+      "salary_min": 70000,
+      "created": "2026-01-20T11:21:59Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MjI2MTkyMCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.ToqLR-Owji7xcTduZj71H81O9Ddlsi5QuS6A2wUfO0I",
+      "company": {
+        "display_name": "Bright Purple Resourcing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "salary_max": 70000
+    },
+    {
+      "description": "Revenue Operations Manager - Trade Mastermind Location: Peterborough HQ Salary Range: £50,000 £65,000 per annum Package: Car Allowance | Monthly Bonuses | Attendance  Sales Overrides | Private Health | Pension | About the Role Trade Mastermind is looking for a Revenue Operation Manager to join our growing team. This is a fantastic opportunity for a skilled and organised professional to help drive our day-to-day operations, improve processes, and support the growth of our business. You will play…",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Orton Southgate, Peterborough",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Peterborough",
+          "Orton Southgate"
+        ]
+      },
+      "longitude": -0.316968,
+      "title": "Operations Manager",
+      "latitude": 52.540326,
+      "salary_max": 65000,
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Trade Mastermind",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MjI2NDM5MCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.xjD9KpdNWBQj0Qlb5ta35dYM4X8KFzKskdzY-L7RBt4",
+      "created": "2026-01-20T11:24:41Z",
+      "salary_min": 65000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5592264390?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=6D592189C632DA90937791A4EFB40ABA61F9BF88",
+      "id": "5592264390",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "title": "Front End Developer (JS, Vue) No Visa Sponsorship.",
+      "location": {
+        "area": [
+          "UK",
+          "South West England",
+          "Devon",
+          "Barnstaple"
+        ],
+        "display_name": "Barnstaple, Devon",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -4.05823,
+      "latitude": 51.080601,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "description": "Front-End Developer (Vue, JavaScript, Python) Barnstable, North Devon (3-4 days per week in office) * Must be living in Devon already - No VISA Sponsorship* £35-45k No Visa sponsorship is offered for this role. Your new company I am engaged on a project to recruit a Front End Developer to be a key contributor to a Greenfield project working in the Construction sector. This role is offered on a full-time permanent basis working from their head office in Barnstable 3-4 days a week. We are hiring …",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "5585182845",
+      "salary_min": 45000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585182845?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=D84CB7388190E4065476DD530490E23BB78ACFA1",
+      "created": "2026-01-14T22:35:42Z",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTg1MTgyODQ1In0.a0I83rGnbqnaMwdvhUan44e6VW6Ve4c69YEb4aR5fgM",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hays"
+      },
+      "salary_max": 45000
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "latitude": 51.451818,
+      "longitude": -0.02806,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South East London, London",
+        "area": [
+          "UK",
+          "London",
+          "South East London"
+        ]
+      },
+      "title": "Site Reliability Engineer",
+      "description": "Contract: Site Reliability Engineer Location: UK/Ireland/Netherlands with EU travel required 2-3 times per year (4-8 weeks at a time) Rate: circa £400-405 per day outside of IR35. Travel expensed Start: ASAP Duration: 12 months Reference: 20151 We are looking for an experienced Site Reliability Engineer (SRE) to join a high-performing engineering team on a long-term contract project. This contract is hybrid working remotely and then on site for periods of time during deployments with EU travel …",
+      "salary_min": 104000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597014426?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=93B5F94B630ECF550E07B62BC4802D453E66B3D2",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5597014426",
+      "salary_max": 105300,
+      "created": "2026-01-23T08:05:51Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk3MDE0NDI2In0.iB08HgOkq15ruhKS7XnFENBlv9lQ0jblC_vbpX3Dvc8",
+      "company": {
+        "display_name": "Networking People  Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "HAYS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTQ5MjgzNTA0In0._o6CbrvFi2kT4xDC4gyOljCP5GoCbuogLbK-ogAsiOk",
+      "description": "Systems Consultant – Immediate Start Your new company We are currently working with a leading organisation in the healthcare sector who are seeking an experienced financial professional to support a critical systems migration project. You'll play a key role in aligning financial reporting with a newly implemented ERP system, Microsoft Dynamics 365 Business Central, while reporting to the Financial Controller. What you'll need to succeed ACA qualification orACCA/CIMA or equivalent Hands-on exper…",
+      "created": "2025-12-19T23:37:11Z",
+      "salary_max": 97500,
+      "id": "5549283504",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Systems Consultant",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 78000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5549283504?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=0FAD5C95D00CAC247A49EAD69C5E4C2E13E51253"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5596774799?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=0574BB33B4D615D0207488B5B7EE063A9B2C17B8",
+      "salary_min": 75000,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Senior UX Product Designer (Native Apps)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Manchester, Greater Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ]
+      },
+      "id": "5596774799",
+      "salary_max": 75000,
+      "created": "2026-01-23T03:25:50Z",
+      "description": "Senior UX Product Designer (Native Apps) Our client is on a mission to completely transform the way processes are delivered taking a heavily call-centre-led industry and making it truly digital. This is a rare opportunity to be at the forefront of realigning an entire sector, working on a career-defining project that will shape how people experience financial support. For this position you must have experience native apps- this being the main focus of the role. You will also be responsible in h…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk2Nzc0Nzk5In0.44Fei0waXpug9wgeJxiYPBG6eFCyMKTOHR9emLJsMPY",
+      "company": {
+        "display_name": "Adria Solutions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Salary: £66,200 - £83,000  Civil Service pension (28.97%) Locations: Multiple UK locations | Hybrid working Security Clearance: DV required (or willingness to undergo) Protecting one of the UK's most critical national assets HM Land Registry safeguards the Land Registers of England and Wales, an asset valued at over £8 trillion . This role sits at the heart of that responsibility. We're looking for a senior cyber security leader to provide independent assurance, oversight and strategic challeng…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Wales",
+          "Swansea"
+        ],
+        "display_name": "Swansea, Wales"
+      },
+      "longitude": -3.94663,
+      "title": "Head of Cyber Secuirty",
+      "latitude": 51.620399,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTg5MTQwNjkzIn0.PdzVczsf9dBxLwRXATvTu8t-XamnwEPbb0iN0-p920Q",
+      "company": {
+        "display_name": "Inspire People",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-01-17T10:53:26Z",
+      "salary_max": 80000,
+      "id": "5589140693",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5589140693?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=ED93075EC4F52C9D93B581FFC5629F97EA7E332F",
+      "salary_min": 80000
+    },
+    {
+      "created": "2026-01-21T02:27:52Z",
+      "company": {
+        "display_name": "Manpower",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MzQ1NjIwNSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.ewqLWSWEKSG-p9kB-9o9GqMsWDU19mVBQllto_vnBHw",
+      "salary_is_predicted": "0",
+      "salary_max": 90000,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5593456205",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593456205?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=49EF15794BC6E3B39B3792AEA74690CC50AE9B72",
+      "salary_min": 90000,
+      "description": "Network Solution Architect Christchurch/Filton/Portsmouth (Hybrid working) Up to £90kBonus My client a multi-national Aerospace & Defence organisation are looking for a multiple Network Solution Architects to work out of one of their Digital Intelligence sites. What you'll be doing: Working in the military deployed communications domain, working to deliver deployed communications systems as well as products into our customer base. Lead development activities alongside a team of engineers, guidi…",
+      "latitude": 50.733799,
+      "title": "Network Solutions Architect",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Christchurch, Dorset",
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Christchurch"
+        ]
+      },
+      "longitude": -1.77602,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Data Management Engineer – Contract Location : Warton, Preston (minimum 3 days per week onsite) Contract Length : 12 months Rate : £30.49 per hour (Umbrella) Clearance : BPSS and SC required (active SC not required at start) We are currently recruiting for an experienced Data Management Engineer to support a major engineering programme based in Warton. This is a long-term contract opportunity with a strong likelihood of extension, offering competitive rates and a hands-on role within a large-sc…",
+      "latitude": 53.747128,
+      "location": {
+        "display_name": "Warton, Preston",
+        "area": [
+          "UK",
+          "North West England",
+          "Lancashire",
+          "Preston",
+          "Warton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -2.887732,
+      "title": "Data Management Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Morson Edge"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTc2OTM1MjE4In0.xYq4OVbX29K9TLr3WYaIJYVG_oZSHuWbMCTfVnJkN60",
+      "salary_is_predicted": "0",
+      "created": "2026-01-09T22:19:00Z",
+      "salary_max": 63419,
+      "id": "5576935218",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5576935218?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=ECF38FBCA859C1CF54B6A15FA204FFCC7F70BCF8",
+      "salary_min": 63419
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cadence Resourcing Limited"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTgxNTkzNTQzIn0.nu0_Jj0-8n9b4h5sNiYJzcNfxJiv1mXyyEF9V38dv4U",
+      "created": "2026-01-13T02:44:09Z",
+      "salary_max": 143000,
+      "id": "5581593543",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5581593543?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=91AC0645EF86B1752A3C8D27E5D83A4A30DD3E95",
+      "salary_min": 117000,
+      "description": "My client are looking for an experienced Training Lead to provide end-to-end training expertise to a Conga CPQ implementation. The successful contractor will have demonstrable experience of working on largescale Configure Price Quote / Offer Management solution implementations, ideally having previously created and delivered comprehensive training packages for Conga CPQ. This contract will involve working with an established Sales team to carry out training needs analysis and create a training …",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South East London, London",
+        "area": [
+          "UK",
+          "London",
+          "South East London"
+        ]
+      },
+      "longitude": -0.02806,
+      "title": "Training Lead - Conga CPQ",
+      "latitude": 51.451818,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595325637?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=F589EFA28F04703D93D7ECEEEA1B915415514AA4",
+      "salary_min": 48937.9,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5595325637",
+      "salary_max": 48937.9,
+      "created": "2026-01-22T10:58:47Z",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "Sellick Partnership Limited - Public Sector",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTMyNTYzNyIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.Ee03t6TgAf9cTe2pgzMrX_XSTy-F_7npkiwiVdv-1PQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "contract_time": "part_time",
+      "title": "Criminal Prosecutions Lawyer",
+      "longitude": -0.605907,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England"
+        ],
+        "display_name": "South East England, UK"
+      },
+      "latitude": 51.320086,
+      "description": "Criminal Prosecutions Lawyer Remote OR Hybrid working Part-time or full-time Our client, a Local Authority in the East of England, is seeking a Criminal Prosecutions Lawyer to join their legal services team on a locum basis for an anticipated minimum period of 3 months. This is an excellent opportunity to join a stable and friendly team. Our client is happy to consider a remote or hybrid working pattern and full or part-time hours will be considered. Responsibilities of the Criminal Prosecution…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "salary_min": 100000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5590361450?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=13AF9C5AAAF1F0785504A28617B5C4ECCC2F8F8D",
+      "id": "5590361450",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Presales Solution Consultant",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 100000,
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Dama TS Ltd"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTkwMzYxNDUwIn0.iiNGlSmFXGhVrF3G1dpdpkpk4TJe6WpolheC9gkGedQ",
+      "description": "Looking for a senior Solutions Consultant with retail sector solutions experience for a pre-sales solutions consultancy role for a suite of workforce management based solutions for the retail industry. International software company, expanding in the UK and EMEA. As a subject matter expert you will partner with sales, product and marketing teams to deliver compelling solution narratives spanning labour planning, scheduling, forecasting, budgeting, Time and Attendance WFM Task execution and fres…",
+      "created": "2026-01-18T11:23:42Z"
+    },
+    {
+      "salary_max": 61456.5,
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "BAM UK & Ireland",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MTI1MjI0OCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.yGaX8W40Tz-GN1lS3kmTwe_m8UGtsvqw3OAHvmrZ3UU",
+      "created": "2026-01-07T10:21:40Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5571252248?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=572E450B412D717F7E210D51123D5ED8BE2689D4",
+      "salary_min": 61456.5,
+      "id": "5571252248",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "Building a sustainable tomorrow BAM Infrastructure is seeking a talented BIM Manager to join our Digital Project Solutions team. In this pivotal role, you will report to the Principal DPS Project Lead within a dynamic matrix structure and play a key part in driving our digital strategy across tenders and projects. Your focus will be on implementing robust information management practices and leveraging cutting-edge digital tools to capture, share, and utilize data that enhances project and cont…",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "DPS Project Lead",
+      "longitude": -0.693399,
+      "location": {
+        "display_name": "Wellingborough, Northamptonshire",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Northamptonshire",
+          "Wellingborough"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 52.302898
+    },
+    {
+      "longitude": -1.12873,
+      "title": "Senior Contract Manager",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Tadley"
+        ],
+        "display_name": "Tadley, Hampshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 51.350201,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "AWE is recruiting a Senior Contract Manager to deliver post contract management of complex construction contracts within commercial (supply chain), to ensure that the objectives of AWE are met in spirit. Salary: from £63,270 to £85,000 (depending on your suitability and level of experience) Location: Aldermaston for first 6 months, before relocating to Burghfield. Please note, there will be travel between sites, including Green Park (Reading). F ree onsite parking . Working pattern: AWE operate…",
+      "id": "5585183200",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585183200?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=7F0FEBDEE86EFFADE1372B77C1110A65A76604E0",
+      "salary_min": 85000,
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AWE Plc"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NTE4MzIwMCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.30BEVaA22lvBxHEmXkHRUfnTvhY5FdrkXJ85630jK_s",
+      "created": "2026-01-14T22:36:25Z",
+      "salary_max": 85000
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597014614?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=7531188B1361AA65537727B603DC55EACADA8EEF",
+      "salary_min": 100000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5597014614",
+      "salary_max": 100000,
+      "created": "2026-01-23T08:05:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NzAxNDYxNCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.5DNuY8saLNrU4iVSXHvWKPxzDlrRK7B8v62OrBVRRiY",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Morson Edge"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "latitude": 53.480015,
+      "title": "Senior Python Engineer (£100k  benefits)",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Manchester Science Park"
+        ],
+        "display_name": "Manchester Science Park, Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -2.239815,
+      "description": "Great opportunity for Senior Python Engineers to work remotely for a UK based AI scale-up. You'd join a large engineering department and would work within a cross functional product-based team responsible for building cloud-native, event-driven systems in a collaborative DevOps environment. The teams are responsible for all aspects of the product they work on, from design through to development, testing, deployment and supporting systems in production, so you should expect to apply XP technique…"
+    },
+    {
+      "created": "2026-01-23T09:22:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTk3MDMwNTExIn0.v2tyx7m581saMqIsy4rlfk0tvtXxzIKzoIVP_sg0m4w",
+      "company": {
+        "display_name": "AIRBUS Defence and Space Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "salary_max": 34045.9,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5597030511",
+      "salary_min": 34045.9,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597030511?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=F53E9989389C165A28688064EFCF3EA4C80F0CB5",
+      "description": "Job Description: SECURITY CLEARANCE: Eligibility to gain UK SC Security Clearance TRAVEL REQUIRED:  Occasional travel within UK LOCATION:  Portsmouth, UK (60% of your working week must be office based) TYPE:  Full time / STEM returners welcome WHAT'S IN IT FOR YOU * Financial Reward:  Competitive salary, annual profit share, contributory pension, share options, car leasing scheme, free onsite parking, season ticket loan, tax-free technology scheme, discounted shopping and much more * Work / Lif…",
+      "latitude": 50.798901,
+      "title": "Software Test Engineer",
+      "location": {
+        "display_name": "Portsmouth, Hampshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Portsmouth"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -1.09116,
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time"
+    },
+    {
+      "salary_min": 56048.86,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5597629738?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=E350259277565B13AED269355DDBB4B8AD87F58A",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "5597629738",
+      "salary_max": 56048.86,
+      "created": "2026-01-23T19:40:59Z",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "Gerrard White",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NzYyOTczOCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.Hs4UcR1xJONae7nQMdokWt_GQoFgwaqitSpmRIx9EXg",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Salford"
+        ],
+        "display_name": "Salford, Greater Manchester"
+      },
+      "title": "Head of Modelling & Optimisation",
+      "longitude": -2.29042,
+      "latitude": 53.487701,
+      "description": "Head of Modelling & Optimisation This role sits within ourRetail Pricing - Modelling & Optimisation division. Location: We operate flexible hybrid working for these positions and have offices based in Manchester and Peterborough. Role purpose The successful candidate is responsible for leading technical pricing solutions in order to drive commercial outcomes across the company. This includes strategic and technical leadership, team leadership, organisational awareness, ability to drive change, …"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTc2NTUxMyIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.zLZbb54I8rovHzdGe0jLV4vChNtx6uAX4mN3lnDWdwY",
+      "company": {
+        "display_name": "Client Server",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "created": "2026-01-19T23:16:29Z",
+      "salary_max": 75000,
+      "id": "5591765513",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 75000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591765513?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=D6226AE2EBD195DCD35D85CD7CBBBEF980E95577",
+      "description": "Senior JavaScript Developer / front End Engineer (Vue 3) Billericay / WFH to £75k Are you a JavaScript web technologist seeking an opportunity to work with a modern tech stack on Greenfield projects? You could be progressing your career in a senior, hands-on role at an eCommerce payments solutions provider that has experienced great success in the last year and is growing as a result. What's in it for you: As a Senior JavaScript Developer you will earn a competitive package: Salary (to £75k) Bo…",
+      "latitude": 51.630207,
+      "longitude": 0.410565,
+      "title": "Senior JavaScript Developer Vue 3",
+      "location": {
+        "display_name": "Little Burstead, Billericay",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Essex",
+          "Billericay",
+          "Little Burstead"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent"
+    },
+    {
+      "created": "2026-01-12T14:29:05Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTgwNDU4NTgzIn0.hx3lf_jJFn7kYqRkHItV15OP-jNH8k4_MxhumN8NmkI",
+      "company": {
+        "display_name": "COMPUTACENTER  LIMITED",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "salary_max": 40839.69,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5580458583",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5580458583?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=F2A72933E220775AC810C5F8627BBCBACFE8A0B7",
+      "salary_min": 40839.69,
+      "description": "Functional Consultant Genesys Location: Hatfield (with Hybrid) Join a dynamic and customer-focused team at the forefront of delivering exceptional cloud-based contact center solutions. As a Functional Consultant for Genesys Cloud, youll play a pivotal role in guiding customers through the design of their services, ensuring solutions align with best practices and strategic objectives. Acting as the trusted advisor, youll lead conversations that shape the customer experience before handing over t…",
+      "latitude": 51.772727,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "North Mymms, Hatfield",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Hertfordshire",
+          "Hatfield",
+          "North Mymms"
+        ]
+      },
+      "title": "Functional Consultant - Genesys",
+      "longitude": -0.243663,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent"
+    },
+    {
+      "id": "5593254871",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "IT Security Tooling Specialst - Luton",
+      "location": {
+        "display_name": "Luton, Bedfordshire",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Bedfordshire",
+          "Luton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "salary_min": 54128.11,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5593254871?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=C918CBF357B2F1F6342403A13081CA95824E78E8",
+      "salary_is_predicted": "1",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTkzMjU0ODcxIn0.1V5hniZWMsmLx-KWQmvtYC29vs99p26gdTcMbMPzCFU",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DXC"
+      },
+      "created": "2026-01-20T23:19:29Z",
+      "description": "Job Description Hybrid/Onsite - Luton Suitable candidates for this role must be able to work Hyrbrid minimum 2 days per week in Luton and be eligible for SC Clearance. At DXC Technology, delivering excellence for our customers and colleagues is more than just a motto, its something we strive towards constantly through our work. Every day we deliver mission critical services in a secure environment whilst promoting our people first agenda, a real sense of community and a healthy work-life balanc…",
+      "salary_max": 54128.11
+    },
+    {
+      "salary_max": 57200,
+      "created": "2026-01-15T22:39:24Z",
+      "description": "Job Details Job Title: Desktop Support Engineer (SC Cleared) 100% Onsite Role Location: Leiston, UK Department/Practice: IT Infrastructure Special Working Conditions This is a 100% onsite role (candidate should be ready to work from office location at Leiston every day). Candidate should have UK full driving license as the candidate is required to travel to multiple customer sites in/near Leiston location (approx. within 25 miles range). A site vehicle is available onsite and will be provided t…",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NzA3MTk2NCIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.KepHeideIfUdOSKpnGMcfy9m5WRSKr8B0KQ0qrJ4BXI",
+      "company": {
+        "display_name": "Stackstudio Digital Ltd.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 52000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5587071964?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=9DF3EA54B8271E598D5A65B30BB4AFC54CE0F80D",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Desktop Support Engineer (SC Cleared)",
+      "id": "5587071964"
+    },
+    {
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnFFUURybjQ4QkdRWDRsZThTT3pGQSIsImkiOiI1NTY5Njc0MDIxIn0.aGz7YSxELyGh1e5HfKoHsEBuIJgNgnG5rw1DM3R76OY",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hays"
+      },
+      "created": "2026-01-06T10:16:41Z",
+      "description": "Your new company An ambitious and forward-thinking public sector organisation based in York requires an Infrastructure Deployment Team Leader on an 18-month FTC basis. This is an exciting time to join the team as they embark on major technology programmes to enhance their digital infrastructure. Your new role We are looking for an experienced and hands-on Infrastructure Deployment Team Leader to lead the delivery of two key initiatives: An organisation-wide hardware refresh and Windows 11 rollo…",
+      "salary_max": 50000,
+      "id": "5569674021",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Yorkshire And The Humber, UK",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Infrastructure Deployment Team Leader",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "salary_min": 50000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5569674021?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=6B402C7AD02E0C5FB9FB7D228322A5A173620957"
+    },
+    {
+      "description": "Greetings We are Hiring M365 Backup Design Architect (2x Vacancies) 6 Months contract Sheffield, UK Hybrid Sheffield M365 Backup Design Architect (2x Vacancies) Responsibilities: Responsible for the overall architecture and strategy for Rubrik M365 backup implementation across Clients enterprise tenant. Key Responsibilities: Define end-to-end back up architecture for Microsoft 365 workloads (Exchange, SharePoint, OneDrive, Teams). Design high-availability and recovery strategies. Ensure complia…",
+      "latitude": 53.383099,
+      "title": "M365 Backup Design Architect",
+      "location": {
+        "display_name": "Sheffield, South Yorkshire",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "South Yorkshire",
+          "Sheffield"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -1.4648,
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Adroit People Ltd"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTE4MDM2NSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.MrEEjIeZD_zhSOYtPkJdS8CyS1q5rXI9nrMiKIoKGGI",
+      "salary_is_predicted": "0",
+      "created": "2026-01-19T10:19:29Z",
+      "salary_max": 130000,
+      "id": "5591180365",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5591180365?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=F5F052861924FEA832CC919EFC58D1899FFB2548",
+      "salary_min": 130000
+    },
+    {
+      "description": "Data Architect £600-650/day overall assignment rate to umbrella 6-month initial contract Bristol-based Working with a financial services client who are looking for a business-facing Data Architect. The Architect will be responsible for facing off to 3rd parties and defining data architecture. Data Architect, key responsibilities: Lead the design and implementation of end-to-end data architecture Work closely with 3rd party Definition of road-map Ability to work with large datasets Ideally Snowf…",
+      "contract_type": "contract",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -2.5919,
+      "location": {
+        "display_name": "Bristol, South West England",
+        "area": [
+          "UK",
+          "South West England",
+          "Bristol"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Data Architect",
+      "latitude": 51.455299,
+      "salary_max": 169000,
+      "created": "2026-01-22T19:53:20Z",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sanderson Recruitment"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NjExMzI1OSIsInMiOiJScUVRRHJuNDhCR1FYNGxlOFNPekZBIn0.VC-6ng9XWMWKiE1RAetAUXInU6wM6b7sJLyjNdKVomo",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5596113259?se=RqEQDrn48BGQX4le8SOzFA&utm_medium=api&utm_source=08e8c3e5&v=E1325463C70EDD6189BFFDF3A3F998E4CA8DB542",
+      "salary_min": 156000,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5596113259"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 63112.92
+}

@@ -1,0 +1,15 @@
+{
+  "__CLASS__": "Adzuna::API::Response::Categories",
+  "results": [
+    {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    {
+      "tag": "sales-jobs",
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  ]
+}

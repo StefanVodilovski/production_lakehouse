@@ -2,24 +2,35 @@ import pendulum
 import asyncio
 
 from airflow.sdk import dag, task
-from api.adzuna.extract import run
 
-
+from api.adzuna.fetch_categories import fetch_categories
+from api.adzuna.fetch_jobs import fetch_jobs_by_category
+from api.adzuna.process_categories import process_categories
 
 
 @dag(
-    schedule=None,
-    start_date=pendulum.datetime(2026, 1, 1, tz="UTC"),
+    dag_id="adzuna_job_ingestion",
+    schedule="@weekly",
+    start_date=pendulum.datetime(2026, 1, 1),
     catchup=False,
-    tags=["api_data_extract"],
+    tags=["adzuna", "jobs"],
 )
-def extract_data_from_api():
+def adzuna_dag():
 
     @task
-    def extract():
-        asyncio.run(run())
+    def fetch_categories_task():
+        return asyncio.run(fetch_categories())
 
-    extract()
+    @task
+    def process_categories_task(categories):
+        return asyncio.run(process_categories(categories))
 
+    @task
+    def fetch_jobs_task(category: str):
+        asyncio.run(fetch_jobs_by_category([category]))
 
-extract_data_from_api()
+    categories = fetch_categories_task()
+    category_tags = process_categories_task(categories)
+
+    fetch_jobs_task.expand(category=category_tags)
+adzuna_dag()
