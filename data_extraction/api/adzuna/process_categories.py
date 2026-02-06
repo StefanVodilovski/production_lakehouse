@@ -1,4 +1,3 @@
-import os
 from config import config, logger
 from repository.category import insert_categories_batch
 from db.engine import get_db_session
