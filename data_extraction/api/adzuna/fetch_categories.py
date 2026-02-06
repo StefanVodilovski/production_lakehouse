@@ -1,5 +1,5 @@
-from config import config, logger, read_mock_data
 import httpx
+from config import config, logger, read_mock_data
 
 
 def mock_categories_response() -> dict:
@@ -14,8 +14,8 @@ async def fetch_categories() -> dict:
         "app_key": config.APP_KEY,
     }
     category_url = config.ADZUNA_BASE_URL + config.ADZUNA_GB_CATEGORIES_ENDPOIN
-    async with httpx.AsyncClient(timeout=30) as client:
-        if config.IS_TEST_MODE:
+    async with httpx.AsyncClient(trust_env=False, timeout=30) as client:
+        if config.ENVIRONMENT in ["local", "dev"]:
             return mock_categories_response()
         response = await client.get(
             category_url,

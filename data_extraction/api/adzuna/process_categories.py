@@ -1,5 +1,6 @@
+import os
 from config import config, logger
-from repostitory.category import insert_categories_batch
+from repository.category import insert_categories_batch
 from db.engine import get_db_session
 
 
@@ -22,10 +23,10 @@ async def process_categories(categories: dict) -> list[str]:
         results = categories.get("results")
         if not results:
             raise Exception("No categories found")
-
         payload = []
         tags = []
-        for category in results:
+        # Limit the first 5 categories not to over flood api requests for jobs
+        for category in results[:5]:
             category_data = await __extract_category_data(category)
             if category_data is None:
                 logger.warning(f"Invalid category data: {category}")

@@ -1,9 +1,10 @@
 from datetime import datetime, timezone
-from config import config, logger, read_mock_data
-from repostitory.category import get_category_id_by_tag
-from repostitory.jobs import insert_job_listings_batch
-from db.engine import get_db_session
+
 import httpx
+from config import config, logger, read_mock_data
+from db.engine import get_db_session
+from repository.category import get_category_id_by_tag
+from repository.jobs import insert_job_listings_batch
 from sqlalchemy.ext.asyncio import AsyncSession
 
 
@@ -87,7 +88,7 @@ async def __handle_pagination_by_category(
         while True:
             logger.info(f"Fetching page {i} for category {category}...")
             current_page_url = f"{search_endpoint}/{str(i)}"
-            if config.IS_TEST_MODE:
+            if config.ENVIRONMENT in ["local", "dev"]:
                 data = mock_job_response(category)
             else:
                 data = await fetch_data_from_api(
