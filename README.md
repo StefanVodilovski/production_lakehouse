@@ -81,7 +81,7 @@ To run the data extraction locally you need to have the PostgreSQL database runn
 To start the Airflow jobs you can create the Docker image from the Dockerfile, and then run the Airflow scheduler and webserver using Docker Compose.
 
 
-### Future work
+## Future work
 
 - Implement CDC with Debezium to capture changes from PostgreSQL and stream them to Kafka
 - Implement data lakehouse using Snowflake, Iceberg and DBT
