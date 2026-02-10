@@ -42,7 +42,7 @@ git clone https://github.com/StefanVodilovski/production_lakehouse.git
 
 2.install the dependencies:
 ```bash
-uv uv sync
+uv sync
 ```
 3. Start the transactional database using Docker Compose:
 ```bash
